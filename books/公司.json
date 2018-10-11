@@ -1,0 +1,602 @@
+[
+  {
+    "title": "腾讯传 : 中国互联网公司进化论",
+    "assess": 7.8,
+    "assessNumber": 8841
+  },
+  {
+    "title": "重新定义公司 : 谷歌是如何运营的",
+    "assess": 8.2,
+    "assessNumber": 4710
+  },
+  {
+    "title": "增长黑客 : 创业公司的用户与收入增长秘籍",
+    "assess": 7.8,
+    "assessNumber": 2671
+  },
+  {
+    "title": "巴菲特致股东的信 : 股份公司教程",
+    "assess": 8.2,
+    "assessNumber": 2126
+  },
+  {
+    "title": "公司理财 : （原书第6版）",
+    "assess": 8.8,
+    "assessNumber": 1317
+  },
+  {
+    "title": "东南亚",
+    "assess": 8.6,
+    "assessNumber": 1161
+  },
+  {
+    "title": "巴菲特的护城河 : 寻找超额收益公司，构建股票首富城堡",
+    "assess": 8.5,
+    "assessNumber": 1151
+  },
+  {
+    "title": "在你身边，为你设计 : 腾讯的用户体验设计之道",
+    "assess": 7.2,
+    "assessNumber": 1101
+  },
+  {
+    "title": "腾讯方法 : 一个市值1500亿美元公司的产品真经",
+    "assess": 7.4,
+    "assessNumber": 1038
+  },
+  {
+    "title": "尼泊尔",
+    "assess": 8.4,
+    "assessNumber": 935
+  },
+  {
+    "title": "轻公司 : 互联网变革中国制造",
+    "assess": 7.6,
+    "assessNumber": 873
+  },
+  {
+    "title": "象形5000 : 百词斩",
+    "assess": 7.8,
+    "assessNumber": 780
+  },
+  {
+    "title": "门口的野蛮人 : 历史上最著名的公司争夺战",
+    "assess": 7.5,
+    "assessNumber": 776
+  },
+  {
+    "title": "创新公司 : 皮克斯的启示",
+    "assess": 8.7,
+    "assessNumber": 775
+  },
+  {
+    "title": "柬埔寨 : Lonely Planet旅行指南系列",
+    "assess": 8.3,
+    "assessNumber": 771
+  },
+  {
+    "title": "领导梯队 : 全面打造领导力驱动型公司(原书第2版)",
+    "assess": 8.3,
+    "assessNumber": 716
+  },
+  {
+    "title": "公司的力量",
+    "assess": 7.9,
+    "assessNumber": 697
+  },
+  {
+    "title": "创业小败局 : 创业公司长演不衰的21种经典死法（案例集）",
+    "assess": 7.4,
+    "assessNumber": 661
+  },
+  {
+    "title": "手冢治虫：原画的秘密",
+    "assess": 8.5,
+    "assessNumber": 628
+  },
+  {
+    "title": "公司理财 : 原书第8版",
+    "assess": 9.1,
+    "assessNumber": 579
+  },
+  {
+    "title": "妖言惑众 : 妖魔公司“妖魔事务部”的故事",
+    "assess": 8.5,
+    "assessNumber": 555
+  },
+  {
+    "title": "OKR工作法 : 谷歌、领英等公司的高绩效秘籍",
+    "assess": 7.6,
+    "assessNumber": 528
+  },
+  {
+    "title": "欧洲 : 旅行指南系列",
+    "assess": 8.6,
+    "assessNumber": 524
+  },
+  {
+    "title": "日本 : Lonely Planet 旅行指南",
+    "assess": 8.2,
+    "assessNumber": 507
+  },
+  {
+    "title": "我可能不會愛你原創劇本",
+    "assess": 9.2,
+    "assessNumber": 493
+  },
+  {
+    "title": "赌金者 : 长期资本管理公司(LTCM)的升腾与陨落",
+    "assess": 8.5,
+    "assessNumber": 470
+  },
+  {
+    "title": "短暂飞行 : 十年创办一家上市公司，七年骑行五大洲万里路，互联网创业者、久邦数",
+    "assess": 7.5,
+    "assessNumber": 457
+  },
+  {
+    "title": "以奋斗者为本 : 华为公司人力资源管理纲要",
+    "assess": 7.6,
+    "assessNumber": 457
+  },
+  {
+    "title": "公司理财",
+    "assess": 9.4,
+    "assessNumber": 456
+  },
+  {
+    "title": "价值评估 : 公司价值的衡量与管理",
+    "assess": 9.1,
+    "assessNumber": 448
+  },
+  {
+    "title": "谁是谷歌想要的人才 : 破解世界最顶尖公司的面试密码",
+    "assess": 7.1,
+    "assessNumber": 431
+  },
+  {
+    "title": "日本最了不起的公司 : 永续经营的闪光之魂",
+    "assess": 8.3,
+    "assessNumber": 431
+  },
+  {
+    "title": "洞见 : 世界最富创意的广告公司BBDO",
+    "assess": 8.4,
+    "assessNumber": 380
+  },
+  {
+    "title": "孤独星球Lonely Planet旅行指南系列：日本",
+    "assess": 8.2,
+    "assessNumber": 352
+  },
+  {
+    "title": "公司绝不会告诉你的50大秘密",
+    "assess": 7.7,
+    "assessNumber": 342
+  },
+  {
+    "title": "泰国",
+    "assess": 8.3,
+    "assessNumber": 341
+  },
+  {
+    "title": "公司基本面分析实务 : 把握能把握的机会",
+    "assess": 8.6,
+    "assessNumber": 338
+  },
+  {
+    "title": "柯林斯COBUILD高阶英语学习词典 : 英语版",
+    "assess": 9.8,
+    "assessNumber": 323
+  },
+  {
+    "title": "中兴百货广告作品全集 : 中兴百货与意识形态广告公司",
+    "assess": 8.8,
+    "assessNumber": 295
+  },
+  {
+    "title": "指数型组织 : 打造独角兽公司的11个最强属性",
+    "assess": 7.7,
+    "assessNumber": 291
+  },
+  {
+    "title": "Lonely Planet:云南(LonelyPlanet旅行指南2013年全新版)",
+    "assess": 8.6,
+    "assessNumber": 289
+  },
+  {
+    "title": "星球Google : 我们的生活将怎样被一家公司彻底改变",
+    "assess": 7.1,
+    "assessNumber": 286
+  },
+  {
+    "title": "小猪佩奇-限量珍藏版套装-(10本书+1张DVD)",
+    "assess": 8.7,
+    "assessNumber": 256
+  },
+  {
+    "title": "公司的概念",
+    "assess": 8.5,
+    "assessNumber": 236
+  },
+  {
+    "title": "极简思考 : 来自世界顶尖咨询公司的高效工作法",
+    "assess": 7.9,
+    "assessNumber": 231
+  },
+  {
+    "title": "理科生的人生设计指南 : 从经济自立到选择教授、设立公司",
+    "assess": 7.4,
+    "assessNumber": 219
+  },
+  {
+    "title": "东印度公司 : 巨额商业资本之兴衰",
+    "assess": 6.5,
+    "assessNumber": 212
+  },
+  {
+    "title": "让顾客自己来定价 : 世界排名第一的商科沃顿商学院揭示最盈利公司的创新定价策略",
+    "assess": 8.1,
+    "assessNumber": 211
+  },
+  {
+    "title": "上市公司财务报表解读",
+    "assess": 7.2,
+    "assessNumber": 206
+  },
+  {
+    "title": "创业者 : 全世界最成功的技术公司初创的故事",
+    "assess": 7.3,
+    "assessNumber": 192
+  },
+  {
+    "title": "切蛋糕 : 创业公司如何确立动态股权分配机制",
+    "assess": 7.2,
+    "assessNumber": 179
+  },
+  {
+    "title": "迪士尼大电影双语阅读·寻梦环游记",
+    "assess": 8.8,
+    "assessNumber": 174
+  },
+  {
+    "title": "中国公司法",
+    "assess": 9.2,
+    "assessNumber": 169
+  },
+  {
+    "title": "公司财务原理",
+    "assess": 9.1,
+    "assessNumber": 167
+  },
+  {
+    "title": "拯救华尔街 : 长期资本管理公司的崛起与陨落",
+    "assess": 8.6,
+    "assessNumber": 162
+  },
+  {
+    "title": "游戏关卡设计 : 暴雪公司十年磨一剑的游戏精品《魔兽世界》副本任务的参考书籍",
+    "assess": 7.4,
+    "assessNumber": 160
+  },
+  {
+    "title": "我不升职记2 : 公司篇",
+    "assess": 8.3,
+    "assessNumber": 160
+  },
+  {
+    "title": "如何成为创意人 : ——4A公司创意部解密",
+    "assess": 7.9,
+    "assessNumber": 151
+  },
+  {
+    "title": "公司法论",
+    "assess": 8.1,
+    "assessNumber": 148
+  },
+  {
+    "title": "巴菲特致股东的信 : 投资者和公司高管教程（原书第4版）",
+    "assess": 9.3,
+    "assessNumber": 143
+  },
+  {
+    "title": "普通公司法",
+    "assess": 9.2,
+    "assessNumber": 140
+  },
+  {
+    "title": "公司进化论 : 伟大的企业如何持续创新",
+    "assess": 8,
+    "assessNumber": 139
+  },
+  {
+    "title": "领导梯队：全面打造领导力驱动型公司（原书第2版） : 全面打造领导力驱动型公司",
+    "assess": 7.9,
+    "assessNumber": 134
+  },
+  {
+    "title": "孤独星球 Lonely planet：日本（2016年版） : 中文第四版",
+    "assess": 9,
+    "assessNumber": 134
+  },
+  {
+    "title": "不干了！我开除了黑心公司",
+    "assess": 7.7,
+    "assessNumber": 131
+  },
+  {
+    "title": "我的第一本专注力训练书-小观察成就大思维",
+    "assess": 8.6,
+    "assessNumber": 129
+  },
+  {
+    "title": "公司价值分析 : 案例与实践",
+    "assess": 9,
+    "assessNumber": 129
+  },
+  {
+    "title": "未来版图 : 全球聪明公司的科技创新趋势和商业化路径",
+    "assess": 7.3,
+    "assessNumber": 126
+  },
+  {
+    "title": "疯狂动物城",
+    "assess": 8.4,
+    "assessNumber": 120
+  },
+  {
+    "title": "理解公司 : 产权、激励与治理",
+    "assess": 8.6,
+    "assessNumber": 118
+  },
+  {
+    "title": "公司的概念 : ――德鲁克管理学经典",
+    "assess": 8.5,
+    "assessNumber": 118
+  },
+  {
+    "title": "《辐射4》艺术设定集",
+    "assess": 9.4,
+    "assessNumber": 117
+  },
+  {
+    "title": "投资的护城河 : 晨星公司解密巴菲特股市投资法则",
+    "assess": 7.5,
+    "assessNumber": 116
+  },
+  {
+    "title": "Lonely Planet 孤独星球 “IN”系列：香港和澳门（2014年版） : Lonely Planet“IN”系列",
+    "assess": 7.3,
+    "assessNumber": 115
+  },
+  {
+    "title": "公司财务原理",
+    "assess": 8.8,
+    "assessNumber": 110
+  },
+  {
+    "title": "价值 : 公司金融的四大基石",
+    "assess": 8.1,
+    "assessNumber": 108
+  },
+  {
+    "title": "帝国的末日・奥匈帝国",
+    "assess": 8.2,
+    "assessNumber": 105
+  },
+  {
+    "title": "孤独星球Lonely Planet旅行指南系列：伊朗",
+    "assess": 8.4,
+    "assessNumber": 104
+  },
+  {
+    "title": "百度一下 : 互联网时代的2008年度记忆",
+    "assess": 5.9,
+    "assessNumber": 103
+  },
+  {
+    "title": "Lonely Planet 孤独星球:云南（2015年版) : 第2版",
+    "assess": 8.4,
+    "assessNumber": 101
+  },
+  {
+    "title": "硅谷革命 : 成就苹果公司的疯狂往事",
+    "assess": 8.6,
+    "assessNumber": 97
+  },
+  {
+    "title": "边干边学做老板 : 一个小公司老板的日常管理",
+    "assess": 8.1,
+    "assessNumber": 95
+  },
+  {
+    "title": "柯林斯COBUILD高阶英汉双解学习词典",
+    "assess": 9.7,
+    "assessNumber": 93
+  },
+  {
+    "title": "DK儿童百科全书",
+    "assess": 9,
+    "assessNumber": 93
+  },
+  {
+    "title": "臣服實驗 : 從隱居者到上市公司執行長，放手讓生命掌舵的旅程",
+    "assess": 8.8,
+    "assessNumber": 91
+  },
+  {
+    "title": "估值建模",
+    "assess": 8.9,
+    "assessNumber": 87
+  },
+  {
+    "title": "以客户为中心 : 华为公司业务管理纲要",
+    "assess": 7.5,
+    "assessNumber": 86
+  },
+  {
+    "title": "惠普之道 : 比尔·休利特和我是如何创建公司的",
+    "assess": 7.5,
+    "assessNumber": 85
+  },
+  {
+    "title": "赌金者：长期资本管理公司的升腾与陨落 : 长期资本管理公司的升腾与陨落",
+    "assess": 9.1,
+    "assessNumber": 83
+  },
+  {
+    "title": "麦克米伦高阶英汉双解词典",
+    "assess": 8.9,
+    "assessNumber": 82
+  },
+  {
+    "title": "新金融资本家 : KKR与公司价值的创造",
+    "assess": 7.9,
+    "assessNumber": 81
+  },
+  {
+    "title": "西方家庭学校经典教材读本·英国语文（套装共6册） : （英文原版）（套装共6册）",
+    "assess": 8.3,
+    "assessNumber": 80
+  },
+  {
+    "title": "你只活一次",
+    "assess": 8,
+    "assessNumber": 78
+  },
+  {
+    "title": "Lonely Planet 孤独星球:东北（2014年版）",
+    "assess": 7.5,
+    "assessNumber": 74
+  },
+  {
+    "title": "伟大的绘画:图解世界名画",
+    "assess": 8.9,
+    "assessNumber": 71
+  },
+  {
+    "title": "DK儿童恐龙百科全书",
+    "assess": 9.1,
+    "assessNumber": 69
+  },
+  {
+    "title": "DK伟大的世界地图",
+    "assess": 9.3,
+    "assessNumber": 69
+  },
+  {
+    "title": "公司治理之道 : 控制权争夺与股权激励",
+    "assess": 8.9,
+    "assessNumber": 66
+  },
+  {
+    "title": "兼并、收购和公司重组 : 金融学译丛",
+    "assess": 8.5,
+    "assessNumber": 60
+  },
+  {
+    "title": "商业地产运营管理",
+    "assess": 8.1,
+    "assessNumber": 59
+  },
+  {
+    "title": "公司金融理论（上下册）",
+    "assess": 9.4,
+    "assessNumber": 57
+  },
+  {
+    "title": "一代宗師 (限量典藏版)",
+    "assess": 8.5,
+    "assessNumber": 54
+  },
+  {
+    "title": "DK家庭医生",
+    "assess": 9.1,
+    "assessNumber": 53
+  },
+  {
+    "title": "公司法论（第三版）",
+    "assess": 8.3,
+    "assessNumber": 46
+  },
+  {
+    "title": "投资最困难的事 : 公司基本面分析与估值",
+    "assess": 7.1,
+    "assessNumber": 45
+  },
+  {
+    "title": "巴菲特的护城河 : 寻找超额收益公司，构建股票首富城堡",
+    "assess": 8.8,
+    "assessNumber": 45
+  },
+  {
+    "title": "一個嚮往清晰的夢 : 荷蘭現代主義的設計公司與視覺識別1960-1975",
+    "assess": 8.9,
+    "assessNumber": 41
+  },
+  {
+    "title": "韦氏词典",
+    "assess": 8.5,
+    "assessNumber": 35
+  },
+  {
+    "title": "日本造：盛田昭夫和索尼公司",
+    "assess": 8.7,
+    "assessNumber": 34
+  },
+  {
+    "title": "股市真规则（畅销版） : 站在巴菲特和晨星公司的肩上投资",
+    "assess": 9.2,
+    "assessNumber": 33
+  },
+  {
+    "title": "聪明投资者的成功之道 : 好生意、好公司、好价格",
+    "assess": 8.1,
+    "assessNumber": 33
+  },
+  {
+    "title": "公司 : 对利润与权力的病态追求",
+    "assess": 8,
+    "assessNumber": 31
+  },
+  {
+    "title": "2012年度注册会计师全国统一考试辅导教材 : 公司战略与风险管理",
+    "assess": 7.3,
+    "assessNumber": 20
+  },
+  {
+    "title": "公司法实务应用全书 : 律师公司业务基本技能与执业方法",
+    "assess": 9.2,
+    "assessNumber": 18
+  },
+  {
+    "title": "上市公司执行企业会计准则案例解析（2017）",
+    "assess": 9.5,
+    "assessNumber": 17
+  },
+  {
+    "title": "权力组织 : 大公司与政府间历史悠久的博弈及前景思考",
+    "assess": 7.4,
+    "assessNumber": 13
+  },
+  {
+    "title": "公司 : 全球化商业模拟",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "公司",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "策划 : 新成立公司和快速发展公司的成功企划方法",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "未来的公司",
+    "assess": 0,
+    "assessNumber": 0
+  }
+]

@@ -19,6 +19,7 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "fs-extra": "^7.0.0",
+    "glob": "^7.1.3",
     "iconv-lite": "^0.4.24",
     "phantom": "^6.0.3",
     "request": "^2.88.0",

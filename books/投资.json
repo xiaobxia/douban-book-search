@@ -1,0 +1,602 @@
+[
+  {
+    "title": "彼得·林奇的成功投资",
+    "assess": 8.7,
+    "assessNumber": 5174
+  },
+  {
+    "title": "聪明的投资者",
+    "assess": 9,
+    "assessNumber": 3298
+  },
+  {
+    "title": "投资中最简单的事",
+    "assess": 8.7,
+    "assessNumber": 3216
+  },
+  {
+    "title": "日本蜡烛图技术 : 古老东方投资术的现代指南",
+    "assess": 8.9,
+    "assessNumber": 3149
+  },
+  {
+    "title": "说谎者的扑克牌 : 华尔街的投资游戏",
+    "assess": 8.1,
+    "assessNumber": 2686
+  },
+  {
+    "title": "投资最重要的事",
+    "assess": 8.8,
+    "assessNumber": 2357
+  },
+  {
+    "title": "解读基金 : 我的投资观与实践",
+    "assess": 8.4,
+    "assessNumber": 2017
+  },
+  {
+    "title": "时间投资法 : 让你的年收入增加10倍",
+    "assess": 7.5,
+    "assessNumber": 1888
+  },
+  {
+    "title": "富爸爸投资指南",
+    "assess": 8,
+    "assessNumber": 1726
+  },
+  {
+    "title": "投资学 : 原书第6版",
+    "assess": 8.4,
+    "assessNumber": 1476
+  },
+  {
+    "title": "艺术里的金钱游戏 : 蔡康永建议你艺术投资之道",
+    "assess": 7.3,
+    "assessNumber": 1414
+  },
+  {
+    "title": "旅行，人生最有价值的投资",
+    "assess": 7.8,
+    "assessNumber": 1378
+  },
+  {
+    "title": "邓普顿教你逆向投资 : 牛市和熊市都稳赚的长赢投资法",
+    "assess": 8.2,
+    "assessNumber": 1086
+  },
+  {
+    "title": "股市真规则 : 世界顶级评级机构的投资真经",
+    "assess": 8.9,
+    "assessNumber": 1078
+  },
+  {
+    "title": "时间的玫瑰 : 但斌投资札记",
+    "assess": 7,
+    "assessNumber": 1035
+  },
+  {
+    "title": "给你一个亿 : 天使投资人写给有梦想的创业者",
+    "assess": 7.6,
+    "assessNumber": 988
+  },
+  {
+    "title": "巴菲特与索罗斯的投资习惯",
+    "assess": 7.8,
+    "assessNumber": 986
+  },
+  {
+    "title": "指数基金投资指南",
+    "assess": 8.3,
+    "assessNumber": 933
+  },
+  {
+    "title": "投资大师罗杰斯给宝贝女儿的12封信",
+    "assess": 8.1,
+    "assessNumber": 904
+  },
+  {
+    "title": "逃不开的经济周期 : 历史，理论与投资现实",
+    "assess": 8.6,
+    "assessNumber": 831
+  },
+  {
+    "title": "聪明的投资者 : 原本第4版",
+    "assess": 8.9,
+    "assessNumber": 803
+  },
+  {
+    "title": "彼得·林奇的成功投资",
+    "assess": 9.1,
+    "assessNumber": 747
+  },
+  {
+    "title": "低风险投资之路 : 实现30%年收益率的奥秘",
+    "assess": 7.4,
+    "assessNumber": 746
+  },
+  {
+    "title": "克罗谈投资策略 : 神奇的墨菲法则",
+    "assess": 8,
+    "assessNumber": 717
+  },
+  {
+    "title": "投资者的未来",
+    "assess": 8.3,
+    "assessNumber": 710
+  },
+  {
+    "title": "操盘手 : 中国首部透视当今股票投资界的纪实体股市实战小说",
+    "assess": 6.5,
+    "assessNumber": 667
+  },
+  {
+    "title": "聪明的投资者",
+    "assess": 8.6,
+    "assessNumber": 666
+  },
+  {
+    "title": "热门商品投资 : 量子基金创始人的投资真经",
+    "assess": 7.8,
+    "assessNumber": 596
+  },
+  {
+    "title": "说谎者的扑克牌 : 华尔街的投资游戏",
+    "assess": 8.2,
+    "assessNumber": 563
+  },
+  {
+    "title": "菜场经济学 : 未来十年的投资逻辑",
+    "assess": 7.7,
+    "assessNumber": 562
+  },
+  {
+    "title": "您厉害，您赚得多 : 聪明投资者的聊天记录",
+    "assess": 7.4,
+    "assessNumber": 562
+  },
+  {
+    "title": "那些滚雪球的人 : 中国投资者访谈录",
+    "assess": 7.6,
+    "assessNumber": 555
+  },
+  {
+    "title": "专业投机原理 : 华章经典·金融投资",
+    "assess": 8.8,
+    "assessNumber": 546
+  },
+  {
+    "title": "查理·芒格的智慧 : 投资的格栅理论",
+    "assess": 7.8,
+    "assessNumber": 542
+  },
+  {
+    "title": "老二非死不可 : 关于投资、商业、互联网的碎片化思考",
+    "assess": 7.4,
+    "assessNumber": 506
+  },
+  {
+    "title": "中国式价值投资",
+    "assess": 7.3,
+    "assessNumber": 464
+  },
+  {
+    "title": "金融炼金术 : 投资经典索罗斯荣休纪念版",
+    "assess": 8.6,
+    "assessNumber": 452
+  },
+  {
+    "title": "投资中不简单的事",
+    "assess": 7.6,
+    "assessNumber": 452
+  },
+  {
+    "title": "半路出家的投资银行家 : 华尔街10年变迁内幕",
+    "assess": 8,
+    "assessNumber": 443
+  },
+  {
+    "title": "投资最重要的事（全新升级版）",
+    "assess": 8.9,
+    "assessNumber": 433
+  },
+  {
+    "title": "投资哲学 : 保守主义的智慧之灯",
+    "assess": 7.1,
+    "assessNumber": 428
+  },
+  {
+    "title": "创业之初你不可不知的融资知识 : 寻找风险投资全揭秘",
+    "assess": 8.6,
+    "assessNumber": 421
+  },
+  {
+    "title": "投资交易笔记 : 2002-2010年中国债券市场研究回眸",
+    "assess": 8.5,
+    "assessNumber": 398
+  },
+  {
+    "title": "罗杰斯环球投资旅行",
+    "assess": 8.4,
+    "assessNumber": 393
+  },
+  {
+    "title": "解读量化投资 : 西蒙斯用公式打败市场的故事",
+    "assess": 7.3,
+    "assessNumber": 390
+  },
+  {
+    "title": "从牛顿、达尔文到巴菲特 : 投资的格栅理论",
+    "assess": 8,
+    "assessNumber": 388
+  },
+  {
+    "title": "私募江湖 : 首部清晰描绘中国私募发展历程与投资流派的力作，呈现一幕幕历史、人",
+    "assess": 7,
+    "assessNumber": 387
+  },
+  {
+    "title": "证券分析实践 : 投资王道",
+    "assess": 8.2,
+    "assessNumber": 375
+  },
+  {
+    "title": "钱的外遇 : 香港达人的开心投资理财课",
+    "assess": 7.8,
+    "assessNumber": 373
+  },
+  {
+    "title": "漫步华尔街 : 股市历久弥新的成功投资策略[第8版]",
+    "assess": 8.1,
+    "assessNumber": 373
+  },
+  {
+    "title": "疯狂的投资 : 跨越大西洋电缆的商业传奇",
+    "assess": 7.3,
+    "assessNumber": 373
+  },
+  {
+    "title": "策略投资",
+    "assess": 9,
+    "assessNumber": 364
+  },
+  {
+    "title": "谁说咸鱼没有梦想",
+    "assess": 7.3,
+    "assessNumber": 355
+  },
+  {
+    "title": "约翰.聂夫的成功投资",
+    "assess": 8.1,
+    "assessNumber": 348
+  },
+  {
+    "title": "街头智慧 : 罗杰斯的投资与人生",
+    "assess": 7.5,
+    "assessNumber": 316
+  },
+  {
+    "title": "金牌投资人",
+    "assess": 8.2,
+    "assessNumber": 314
+  },
+  {
+    "title": "机构投资的创新之路",
+    "assess": 8.9,
+    "assessNumber": 300
+  },
+  {
+    "title": "华章经典·金融投资·股市趋势技术分析",
+    "assess": 8,
+    "assessNumber": 298
+  },
+  {
+    "title": "股票投资的24堂必修课",
+    "assess": 7.3,
+    "assessNumber": 288
+  },
+  {
+    "title": "说谎者的扑克牌（纪念版） : 华尔街的投资游戏",
+    "assess": 8,
+    "assessNumber": 285
+  },
+  {
+    "title": "格雷厄姆投资指南 : 聪明的投资人",
+    "assess": 8,
+    "assessNumber": 269
+  },
+  {
+    "title": "一个投资家的20年",
+    "assess": 7.2,
+    "assessNumber": 259
+  },
+  {
+    "title": "巴菲特的投资组合",
+    "assess": 8,
+    "assessNumber": 259
+  },
+  {
+    "title": "明明白白看年报 : 第3版 2009年年报最新版 投资者必读",
+    "assess": 8.6,
+    "assessNumber": 246
+  },
+  {
+    "title": "股市心理博弈（修订版） : 成功投资的心理学与哲学",
+    "assess": 7.4,
+    "assessNumber": 241
+  },
+  {
+    "title": "投资第一课 : 大师没教你的投资技巧",
+    "assess": 7.3,
+    "assessNumber": 236
+  },
+  {
+    "title": "打开量化投资的黑箱",
+    "assess": 7.4,
+    "assessNumber": 230
+  },
+  {
+    "title": "胡立阳股票投资100招",
+    "assess": 7.4,
+    "assessNumber": 211
+  },
+  {
+    "title": "股票投资的大智慧",
+    "assess": 8,
+    "assessNumber": 209
+  },
+  {
+    "title": "我的PE观 : 资深创业投资人陈玮的十年投资心路",
+    "assess": 7.3,
+    "assessNumber": 207
+  },
+  {
+    "title": "财务报表分析与证券投资",
+    "assess": 8,
+    "assessNumber": 206
+  },
+  {
+    "title": "重剑无锋 : 小小辛巴投资手记",
+    "assess": 8.7,
+    "assessNumber": 204
+  },
+  {
+    "title": "投资正途 : 大势·选股·买卖",
+    "assess": 8,
+    "assessNumber": 198
+  },
+  {
+    "title": "戴维斯王朝 : 五十年华尔街成功投资历程",
+    "assess": 7.9,
+    "assessNumber": 198
+  },
+  {
+    "title": "跳着踢踏舞去上班 : 巴菲特的快乐投资与人生智慧",
+    "assess": 7.6,
+    "assessNumber": 195
+  },
+  {
+    "title": "不落俗套的成功 : 最好的个人投资方法",
+    "assess": 7.6,
+    "assessNumber": 192
+  },
+  {
+    "title": "小乌龟投资智慧 : 如何在投资中以弱胜强",
+    "assess": 7.7,
+    "assessNumber": 192
+  },
+  {
+    "title": "逆向思考的艺术 : 与众不同的投资获利之道",
+    "assess": 6.9,
+    "assessNumber": 188
+  },
+  {
+    "title": "证券投资基金（上册） : 证券投资基金",
+    "assess": 7,
+    "assessNumber": 188
+  },
+  {
+    "title": "穿过迷雾 : 巴菲特投资与经营思想之我见",
+    "assess": 8.4,
+    "assessNumber": 184
+  },
+  {
+    "title": "投资之道 : 全球杰出华人投资者访谈录",
+    "assess": 8.5,
+    "assessNumber": 183
+  },
+  {
+    "title": "热门商品投资 : 量子基金创始人的投资真经",
+    "assess": 8.3,
+    "assessNumber": 181
+  },
+  {
+    "title": "价值投资 : 从格雷厄姆到巴菲特",
+    "assess": 8.8,
+    "assessNumber": 178
+  },
+  {
+    "title": "投资银行、对冲基金和私募股权投资",
+    "assess": 8.7,
+    "assessNumber": 170
+  },
+  {
+    "title": "股市投资致富之道",
+    "assess": 8.1,
+    "assessNumber": 164
+  },
+  {
+    "title": "澄明之境 : 青泽谈投资之道",
+    "assess": 8.2,
+    "assessNumber": 158
+  },
+  {
+    "title": "超越恐惧和贪婪 : 行为金融学与投资心理诠释[高级财务管理经典译丛]",
+    "assess": 8,
+    "assessNumber": 153
+  },
+  {
+    "title": "经济指标解读 : 洞悉未来经济发展趋势和投资机会",
+    "assess": 8,
+    "assessNumber": 149
+  },
+  {
+    "title": "低风险投资之路（第二版）",
+    "assess": 7.8,
+    "assessNumber": 146
+  },
+  {
+    "title": "投资学精要 : （第四版）",
+    "assess": 8.5,
+    "assessNumber": 145
+  },
+  {
+    "title": "巴菲特致股东的信 : 投资者和公司高管教程（原书第4版）",
+    "assess": 9.3,
+    "assessNumber": 143
+  },
+  {
+    "title": "投资的本源 : 稳健均衡投资策略",
+    "assess": 7.1,
+    "assessNumber": 138
+  },
+  {
+    "title": "与巴菲特共进午餐时,我顿悟到的5个真理 : 探寻财富、智慧与价值投资的转变之旅",
+    "assess": 8.2,
+    "assessNumber": 131
+  },
+  {
+    "title": "投资学(原书第9版)",
+    "assess": 8.4,
+    "assessNumber": 122
+  },
+  {
+    "title": "投资的护城河 : 晨星公司解密巴菲特股市投资法则",
+    "assess": 7.5,
+    "assessNumber": 116
+  },
+  {
+    "title": "中国重组 : —一个投资银行家的亲历与思考",
+    "assess": 8.4,
+    "assessNumber": 114
+  },
+  {
+    "title": "查理·芒格的原则 : 关于投资与人生的智慧箴言",
+    "assess": 7.7,
+    "assessNumber": 113
+  },
+  {
+    "title": "策略为先 : 重构普通投资者的投资体系",
+    "assess": 7.3,
+    "assessNumber": 112
+  },
+  {
+    "title": "机构投资的创新之路",
+    "assess": 9,
+    "assessNumber": 99
+  },
+  {
+    "title": "超额收益 : 价值投资在中国的最佳实践",
+    "assess": 7.3,
+    "assessNumber": 96
+  },
+  {
+    "title": "价值平均策略 : 获得高投资收益的安全简便方法",
+    "assess": 8.4,
+    "assessNumber": 92
+  },
+  {
+    "title": "量化投资策略 : 如何实现超额收益Alpha",
+    "assess": 7.6,
+    "assessNumber": 87
+  },
+  {
+    "title": "聪明的投资者（第4版注疏点评版）",
+    "assess": 9,
+    "assessNumber": 86
+  },
+  {
+    "title": "私募股权投资管理",
+    "assess": 9,
+    "assessNumber": 86
+  },
+  {
+    "title": "股票投资的24堂必修课 : 华章经典•金融投资",
+    "assess": 8.1,
+    "assessNumber": 86
+  },
+  {
+    "title": "投资学基础 : 估值与管理（第3版）",
+    "assess": 9.3,
+    "assessNumber": 85
+  },
+  {
+    "title": "财务模型与估值 : 投资银行和私募股权实践指南",
+    "assess": 8.3,
+    "assessNumber": 79
+  },
+  {
+    "title": "巴菲特的估值逻辑：20个投资案例深入复盘",
+    "assess": 8.3,
+    "assessNumber": 78
+  },
+  {
+    "title": "博格长赢投资之道",
+    "assess": 7.5,
+    "assessNumber": 78
+  },
+  {
+    "title": "对冲之王 : 华尔街量化投资传奇",
+    "assess": 7.9,
+    "assessNumber": 78
+  },
+  {
+    "title": "风险投资交易 : 条款清单全揭秘",
+    "assess": 9.1,
+    "assessNumber": 76
+  },
+  {
+    "title": "投资银行 : 估值、杠杆收购、兼并与收购（原书第2版）",
+    "assess": 8.8,
+    "assessNumber": 73
+  },
+  {
+    "title": "垃圾债券之王 : 迈克尔•米尔肯投资传奇",
+    "assess": 7.4,
+    "assessNumber": 70
+  },
+  {
+    "title": "30部必读的投资学经典",
+    "assess": 7.1,
+    "assessNumber": 69
+  },
+  {
+    "title": "经济数据背后的财富密码 : 著名经济学家巴曙松、重阳投资董事长裘国根、嘉实基金CIO邵健联名推",
+    "assess": 7.9,
+    "assessNumber": 68
+  },
+  {
+    "title": "主动投资组合管理 : 创造高收益并控制风险的量化投资方法",
+    "assess": 9.3,
+    "assessNumber": 67
+  },
+  {
+    "title": "资产配置的艺术（完整版） : 所有市场的原则和投资策略",
+    "assess": 7.9,
+    "assessNumber": 66
+  },
+  {
+    "title": "策略投资方法论",
+    "assess": 8.4,
+    "assessNumber": 58
+  },
+  {
+    "title": "积极资产配置投资者理财指南",
+    "assess": 8.1,
+    "assessNumber": 47
+  },
+  {
+    "title": "资本回报·穿越资本周期的投资 : 一个资产管理人的报告",
+    "assess": 9.5,
+    "assessNumber": 33
+  }
+]

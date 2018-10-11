@@ -1,0 +1,602 @@
+[
+  {
+    "title": "所谓情商高，就是会说话",
+    "assess": 6.6,
+    "assessNumber": 1983
+  },
+  {
+    "title": "高效演讲 : 斯坦福最受欢迎的沟通课",
+    "assess": 8.4,
+    "assessNumber": 599
+  },
+  {
+    "title": "说话就是生产力",
+    "assess": 8.2,
+    "assessNumber": 432
+  },
+  {
+    "title": "哈佛商学院谈判课",
+    "assess": 7.4,
+    "assessNumber": 290
+  },
+  {
+    "title": "演讲的艺术",
+    "assess": 8.3,
+    "assessNumber": 283
+  },
+  {
+    "title": "幽默沟通学 : —零距离制胜的口才秘籍",
+    "assess": 4.5,
+    "assessNumber": 177
+  },
+  {
+    "title": "卡耐基魅力口才与演讲的艺术 : 魅力口才与演讲的艺术",
+    "assess": 7.8,
+    "assessNumber": 176
+  },
+  {
+    "title": "卡耐基演讲与口才",
+    "assess": 7.6,
+    "assessNumber": 164
+  },
+  {
+    "title": "卡耐基口才的艺术与人际关系",
+    "assess": 7.5,
+    "assessNumber": 139
+  },
+  {
+    "title": "卡耐基口才训练教程",
+    "assess": 8.3,
+    "assessNumber": 83
+  },
+  {
+    "title": "说话的艺术 : 最有中国味的魅力口才",
+    "assess": 5.4,
+    "assessNumber": 76
+  },
+  {
+    "title": "卡耐基口才训练",
+    "assess": 7.2,
+    "assessNumber": 70
+  },
+  {
+    "title": "口才训练十五讲",
+    "assess": 5.8,
+    "assessNumber": 67
+  },
+  {
+    "title": "练好口才的第一本书",
+    "assess": 5.6,
+    "assessNumber": 61
+  },
+  {
+    "title": "职场暖心话术 : 最轻松有效的职场口才提升宝典",
+    "assess": 6,
+    "assessNumber": 48
+  },
+  {
+    "title": "演讲与口才知识全集",
+    "assess": 6.4,
+    "assessNumber": 48
+  },
+  {
+    "title": "口才是练出来的",
+    "assess": 5.9,
+    "assessNumber": 42
+  },
+  {
+    "title": "卡耐基魅力口才与说话技巧",
+    "assess": 6.4,
+    "assessNumber": 40
+  },
+  {
+    "title": "口才决定人生",
+    "assess": 7.9,
+    "assessNumber": 36
+  },
+  {
+    "title": "博恩·崔西口才圣经 : 如何在任何场合说服任何人",
+    "assess": 6.4,
+    "assessNumber": 35
+  },
+  {
+    "title": "好口才是练出来的 : 附73个口才情景训练+15堂口才终极突破课程",
+    "assess": 5.3,
+    "assessNumber": 32
+  },
+  {
+    "title": "60天完美口才打造计划",
+    "assess": 8,
+    "assessNumber": 29
+  },
+  {
+    "title": "口才",
+    "assess": 6.8,
+    "assessNumber": 28
+  },
+  {
+    "title": "口才的魅力",
+    "assess": 6.5,
+    "assessNumber": 26
+  },
+  {
+    "title": "周六上午的口才课",
+    "assess": 7.6,
+    "assessNumber": 26
+  },
+  {
+    "title": "卡耐基口才全书",
+    "assess": 8.2,
+    "assessNumber": 25
+  },
+  {
+    "title": "哈佛口才课",
+    "assess": 6.5,
+    "assessNumber": 24
+  },
+  {
+    "title": "沟通力 : 卡耐基最受欢迎的口才技巧和处世艺术",
+    "assess": 6.4,
+    "assessNumber": 23
+  },
+  {
+    "title": "提问的艺术 : 完美的询问术。随意搭讪拉关系、摸清对方需求，刺探他人秘密，教你通",
+    "assess": 4.6,
+    "assessNumber": 22
+  },
+  {
+    "title": "10天打造完美好口才 : 哈佛最受欢迎的高效沟通课",
+    "assess": 5.9,
+    "assessNumber": 19
+  },
+  {
+    "title": "魅力口才 : 魅力口才",
+    "assess": 7,
+    "assessNumber": 15
+  },
+  {
+    "title": "每天学点口才学",
+    "assess": 5.4,
+    "assessNumber": 13
+  },
+  {
+    "title": "商务口才训练 : 商务口才训练",
+    "assess": 7.2,
+    "assessNumber": 13
+  },
+  {
+    "title": "演讲与口才知识大全集",
+    "assess": 5.3,
+    "assessNumber": 12
+  },
+  {
+    "title": "交际与口才全集",
+    "assess": 7.2,
+    "assessNumber": 12
+  },
+  {
+    "title": "全世界说话高手的法则课 : 最会说话的人永不逾矩的口才教规",
+    "assess": 9,
+    "assessNumber": 12
+  },
+  {
+    "title": "让交际与口才成就你",
+    "assess": 7.2,
+    "assessNumber": 10
+  },
+  {
+    "title": "顶尖说话口才",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "跟我学 : 幽默口才",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "口才 : 简单、高效、易行的口才法则",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "卡耐基口才艺术与处世智慧(珍藏版)",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "练说话 练口才-当众讲话口才训练实务",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "老实人的说话之道 : 74招让你拥有好口才",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "口才艺术库 : 本书汇集了有关口才的各方面的知识，从语言技巧的能力训练，到语言艺",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "从零开始学口才",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "说的艺术 : 跟名人学口才",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "女人会说话的口才书",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "口才 : 当众演讲与沟通的艺术",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "跟我学 : 辩论口才",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "口才",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "卡耐基励志经典 （全3册） : 因《卡耐基励志经典》这套丛书重复使用一个ISBN号，该页面暂时代表该",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "演讲与口才 : 演讲与口才",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "真口才：快速提升脱稿演讲技巧与能力",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "疯狂口才",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "演讲与口才",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "卡耐基口才经典全集",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "口才制胜 : 每天学点口才术",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "经典口才大全集 : 经典口才大全集",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "中国式饭局口才术",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "每天一堂口才课",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "口才 : 超级口才是练出来的",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "戴尔·卡耐基口才学",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "cctv主持人的超强口才 : 央视著名主持人的口才艺术",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "口才",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "销售员口才训练全集",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "口才制胜 : 开口就能打动人，句句说到心里去",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "卡耐基口才学（上中下）",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "没有口德 就没有品德 : 最受欢迎的口才修养与说话技巧",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "口才十日修",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "我最想要的口才书",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "跟奥巴马学口才",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "口才大全",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "特别特别管用的口才术",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "跟我学 : 交际口才",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "这样说话最有效 : 新编情景口才技巧与素材例典",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "口才",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "机智口才与幽默语言（上下册）",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "卡耐基社交口才",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "一分钟口才",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "客套话漂亮话分量话实用口才3项修炼",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "跟我学 : 演讲口才",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "25岁知道就晚了 : 写给全球年轻人的69堂口才训练课",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "跟我学 : 辩论口才",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "做了这些事.人生就会不一样-写给中学生的80个口才训练-3 : 写给中学生的80个口才训练",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "口才心理学 : 心理学让你充满智慧，营销学让你迎刃而解",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "幽默高手的口才训练 : 幽默高手的口才训练",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "如何练就好口才",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "一分钟口才训练 : 有效沟通的艺术",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "演讲与口才 : 卡耐基当众演讲增加自信的智慧",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "美国最权威演讲与口才 : 30周年纪念版",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "超级口才训练 : 世界上最神奇的口才训练课",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "我最想要的口才交际书",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "幽默口才是怎样练成的",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "女人口才全攻略",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "即兴口才随身口才灵感口才",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "有一种口才叫幽默",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "女人受益一生的口才课",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "能说会道 : 日常口才技巧全书",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "不一样的口才书 : 简单、高效、易行的口才法则",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "我最想要的口才指导 : 提升口才必读的“五个一百”",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "推销员金口才 : 世界级著名推销员的说话秘籍",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "销售与口才知识全集",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "哈佛口才学全书",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "北大口才课",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "绝妙口才(卡耐基中国读本)",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "口才 : 心机与辞令",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "实用口才全书",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "跟央视名嘴学口才",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "男人会说话的口才书",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "演讲与口才",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "口才与演讲",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "口才训练 : 口才训练",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "一呆教你练口才",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "别输在说话上 : 受用一生的口才全攻略",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "口才魅力高手",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "卡耐基口才艺术与说话技巧",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "聪明女人的口才修炼课 : 拯救千万女性的沟通秘技，提升所有女性气场的魅力口才课！卡耐基、马",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "顶尖幽默口才",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "三分天才 七分口才 : 让你的谈吐更动人",
+    "assess": 0,
+    "assessNumber": 0
+  },
+  {
+    "title": "每天必须练口才",
+    "assess": 0,
+    "assessNumber": 0
+  }
+]
