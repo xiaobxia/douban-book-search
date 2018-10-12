@@ -11,11 +11,11 @@ function logData(fileData) {
 glob('./books/*', function (err, files) {
   if (err) done(err);
   let allBooks = [];
-  files.map((filePath)=>{
+  files.map((filePath) => {
     let books = fs.readJsonSync(filePath);
     allBooks = allBooks.concat(books);
   });
-  allBooks.sort((a, b)=>{
+  allBooks.sort((a, b) => {
     return b.assessNumber - a.assessNumber;
   });
   logData(allBooks);

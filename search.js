@@ -2,7 +2,7 @@ const cheerio = require('cheerio');
 const phantom = require('phantom');
 const fs = require('fs-extra');
 
-const searchText = encodeURI('乡村');
+const searchText = encodeURI('民俗');
 //豆瓣是15
 const startStep = 15;
 
