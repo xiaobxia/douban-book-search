@@ -2,7 +2,7 @@ const cheerio = require('cheerio');
 const phantom = require('phantom');
 const fs = require('fs-extra');
 
-const searchText = encodeURI('竞争');
+const searchText = encodeURI('货币');
 //豆瓣是15
 const startStep = 15;
 
