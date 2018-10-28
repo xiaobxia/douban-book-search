@@ -2,9 +2,22 @@ const cheerio = require('cheerio');
 const phantom = require('phantom');
 const fs = require('fs-extra');
 
-const searchText = encodeURI('传记');
+const searchText = encodeURI('文化');
 //豆瓣是20
 const startStep = 20;
+
+function filerList(list, key) {
+  let keyList = [];
+  let newList = [];
+  for (let i = 0; i < list.length; i++) {
+    let item = list[i];
+    if (keyList.indexOf(item.title) === -1) {
+      newList.push(item);
+      keyList.push(item.title);
+    }
+  }
+  return newList;
+}
 
 function logData(fileData) {
   const fileName = './mock/book.json';
@@ -26,7 +39,7 @@ function readJson() {
 
 function formatTitle(str) {
   let newStr = str.replace(/\n/g, '');
-  return newStr.replace(/\s*/g,"");
+  return newStr.replace(/\s*/g, "");
 }
 
 async function queryBook(page, start) {
@@ -60,7 +73,7 @@ async function queryBook(page, start) {
     }
   }
   // console.log(allList);
-  const newList = allList.concat(bookList);
+  let newList = allList.concat(bookList);
   // console.log(newList);
   // 最多6页
   console.log(bookList.length);
@@ -71,6 +84,7 @@ async function queryBook(page, start) {
     newList.sort((a, b) => {
       return b.assessNumber - a.assessNumber;
     });
+    newList = filerList(newList, 'title');
     await logData(newList);
   }
 }
