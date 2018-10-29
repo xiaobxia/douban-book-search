@@ -13,6 +13,19 @@ function logData(fileData) {
   });
 }
 
+function filerList(list, key) {
+  let keyList = [];
+  let newList = [];
+  for (let i = 0; i < list.length; i++) {
+    let item = list[i];
+    if (keyList.indexOf(item.title) === -1) {
+      newList.push(item);
+      keyList.push(item.title);
+    }
+  }
+  return newList;
+}
+
 function getNumber(str) {
   return str.replace(/[^0-9]/ig, "");
 }
@@ -55,7 +68,7 @@ async function queryBook(page, start) {
     }
   }
   // console.log(allList);
-  const newList = allList.concat(bookList);
+  let newList = allList.concat(bookList);
   // console.log(newList);
   // 最多6页
   console.log(bookList.length);
@@ -66,6 +79,7 @@ async function queryBook(page, start) {
     newList.sort((a, b)=>{
       return b.assessNumber - a.assessNumber;
     });
+    newList = filerList(newList, 'title');
     await logData(newList);
   }
 }
