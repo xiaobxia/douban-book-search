@@ -1,497 +1,1962 @@
 [
   {
+    "title": "看见",
+    "assess": 8.8,
+    "assessNumber": 272773
+  },
+  {
+    "title": "我们仨",
+    "assess": 8.7,
+    "assessNumber": 235704
+  },
+  {
+    "title": "当我谈跑步时我谈些什么",
+    "assess": 8.2,
+    "assessNumber": 77771
+  },
+  {
+    "title": "你当像鸟飞往你的山",
+    "assess": 8.9,
+    "assessNumber": 54219
+  },
+  {
+    "title": "小团圆",
+    "assess": 7.6,
+    "assessNumber": 47287
+  },
+  {
     "title": "史蒂夫·乔布斯传",
     "assess": 8.7,
-    "assessNumber": 29846
+    "assessNumber": 46872
+  },
+  {
+    "title": "浮生六记",
+    "assess": 8.8,
+    "assessNumber": 43651
+  },
+  {
+    "title": "月亮和六便士",
+    "assess": 9.1,
+    "assessNumber": 37790
+  },
+  {
+    "title": "邓小平时代",
+    "assess": 9.1,
+    "assessNumber": 27908
+  },
+  {
+    "title": "巨流河",
+    "assess": 8.7,
+    "assessNumber": 25064
   },
   {
     "title": "世界因你不同:李开复自传",
     "assess": 8.1,
-    "assessNumber": 24024
+    "assessNumber": 24984
   },
   {
     "title": "我的奋斗",
     "assess": 7.3,
-    "assessNumber": 22360
-  },
-  {
-    "title": "邓小平时代",
-    "assess": 9,
-    "assessNumber": 14894
+    "assessNumber": 23057
   },
   {
     "title": "人类的群星闪耀时",
     "assess": 8.7,
-    "assessNumber": 14038
+    "assessNumber": 19802
   },
   {
-    "title": "苏东坡传",
-    "assess": 8.5,
-    "assessNumber": 12507
+    "title": "平如美棠:我俩的故事",
+    "assess": 9.1,
+    "assessNumber": 18381
+  },
+  {
+    "title": "幸福了吗?",
+    "assess": 8,
+    "assessNumber": 18354
   },
   {
     "title": "我的职业是小说家",
     "assess": 8.3,
-    "assessNumber": 10969
+    "assessNumber": 17847
   },
   {
-    "title": "蛤蟆的油",
+    "title": "苏东坡传",
     "assess": 8.4,
-    "assessNumber": 10917
+    "assessNumber": 17636
   },
   {
-    "title": "梵高传:对生活的渴求",
-    "assess": 8.7,
-    "assessNumber": 8969
+    "title": "假如给我三天光明:海伦·凯勒自传",
+    "assess": 8.1,
+    "assessNumber": 16144
   },
   {
-    "title": "腾讯传:中国互联网公司进化论",
-    "assess": 7.8,
-    "assessNumber": 8954
+    "title": "此生未完成:一个母亲、妻子、女儿的生命日记",
+    "assess": 8.9,
+    "assessNumber": 16013
   },
   {
     "title": "当呼吸化为空气",
     "assess": 8.8,
-    "assessNumber": 8123
+    "assessNumber": 15498
   },
   {
-    "title": "十年一觉电影梦:李安传",
-    "assess": 8.2,
-    "assessNumber": 7815
-  },
-  {
-    "title": "我不要你死于一事无成:给女儿的17封告别信",
+    "title": "向前一步:女性，工作及领导意志",
     "assess": 8.1,
-    "assessNumber": 7653
+    "assessNumber": 14543
+  },
+  {
+    "title": "腾讯传:中国互联网公司进化论",
+    "assess": 7.8,
+    "assessNumber": 14096
+  },
+  {
+    "title": "你若安好便是晴天:林徽因传",
+    "assess": 5.7,
+    "assessNumber": 13420
+  },
+  {
+    "title": "蛤蟆的油",
+    "assess": 8.4,
+    "assessNumber": 12720
+  },
+  {
+    "title": "活出生命的意义",
+    "assess": 8.6,
+    "assessNumber": 12397
+  },
+  {
+    "title": "上学记",
+    "assess": 8.9,
+    "assessNumber": 12086
+  },
+  {
+    "title": "随遇而安",
+    "assess": 7.2,
+    "assessNumber": 11454
+  },
+  {
+    "title": "穷查理宝典:查理·芒格的智慧箴言录",
+    "assess": 8.9,
+    "assessNumber": 11285
+  },
+  {
+    "title": "今生今世:我的情感历程",
+    "assess": 7.7,
+    "assessNumber": 10539
+  },
+  {
+    "title": "借我一生",
+    "assess": 7.4,
+    "assessNumber": 10385
+  },
+  {
+    "title": "伊斯坦布尔:一座城市的记忆",
+    "assess": 8.4,
+    "assessNumber": 10311
+  },
+  {
+    "title": "傅雷家书:增订第五版",
+    "assess": 8.5,
+    "assessNumber": 10133
+  },
+  {
+    "title": "野蛮生长",
+    "assess": 8.3,
+    "assessNumber": 9739
   },
   {
     "title": "昨日的世界:一个欧洲人的回忆",
     "assess": 9.2,
-    "assessNumber": 6955
+    "assessNumber": 9610
+  },
+  {
+    "title": "十年一觉电影梦:李安传",
+    "assess": 8.2,
+    "assessNumber": 9449
+  },
+  {
+    "title": "梵高传:对生活的渴求",
+    "assess": 8.7,
+    "assessNumber": 9366
+  },
+  {
+    "title": "渴望生活:梵高传",
+    "assess": 9.2,
+    "assessNumber": 9025
+  },
+  {
+    "title": "我不要你死于一事无成:给女儿的17封告别信",
+    "assess": 8.1,
+    "assessNumber": 8661
   },
   {
     "title": "奇特的一生",
     "assess": 8.3,
-    "assessNumber": 6837
+    "assessNumber": 8575
   },
   {
     "title": "别闹了，费曼先生:科学顽童的故事",
     "assess": 8.9,
-    "assessNumber": 6787
-  },
-  {
-    "title": "穷查理宝典:查理·芒格的智慧箴言录",
-    "assess": 9,
-    "assessNumber": 6344
-  },
-  {
-    "title": "曾国藩（上中下）",
-    "assess": 8.6,
-    "assessNumber": 5289
-  },
-  {
-    "title": "安迪·沃霍尔的哲学:波普启示录",
-    "assess": 8.1,
-    "assessNumber": 5087
-  },
-  {
-    "title": "硅谷钢铁侠:埃隆·马斯克的冒险人生",
-    "assess": 8.1,
-    "assessNumber": 4888
+    "assessNumber": 8416
   },
   {
     "title": "活着为了讲述",
     "assess": 9,
-    "assessNumber": 4594
+    "assessNumber": 8372
   },
   {
-    "title": "李鸿章传",
-    "assess": 8.9,
-    "assessNumber": 4308
+    "title": "安妮日记",
+    "assess": 8.1,
+    "assessNumber": 7552
   },
   {
-    "title": "只是孩子",
+    "title": "硅谷钢铁侠:埃隆·马斯克的冒险人生",
+    "assess": 8.1,
+    "assessNumber": 7496
+  },
+  {
+    "title": "菊次郎与佐纪",
+    "assess": 8.6,
+    "assessNumber": 7418
+  },
+  {
+    "title": "仓央嘉措诗传",
+    "assess": 7.3,
+    "assessNumber": 7362
+  },
+  {
+    "title": "夜航西飞",
     "assess": 8.8,
-    "assessNumber": 4264
+    "assessNumber": 7356
+  },
+  {
+    "title": "赢:韦尔奇一生的管理智慧",
+    "assess": 8.2,
+    "assessNumber": 7325
+  },
+  {
+    "title": "人类群星闪耀时",
+    "assess": 8.3,
+    "assessNumber": 7183
+  },
+  {
+    "title": "毛泽东传",
+    "assess": 7.9,
+    "assessNumber": 6973
+  },
+  {
+    "title": "曾国藩（上中下）",
+    "assess": 8.6,
+    "assessNumber": 6710
+  },
+  {
+    "title": "绝望锻炼了我:朴槿惠自传",
+    "assess": 7.2,
+    "assessNumber": 6352
+  },
+  {
+    "title": "忏悔录",
+    "assess": 8.1,
+    "assessNumber": 6227
+  },
+  {
+    "title": "穷查理宝典:查理•芒格智慧箴言录",
+    "assess": 8.7,
+    "assessNumber": 6167
+  },
+  {
+    "title": "牛棚杂忆",
+    "assess": 8.4,
+    "assessNumber": 6130
+  },
+  {
+    "title": "我在伊朗长大",
+    "assess": 9.4,
+    "assessNumber": 5879
   },
   {
     "title": "维特根斯坦传:天才之为责任",
     "assess": 9.1,
-    "assessNumber": 4157
+    "assessNumber": 5832
   },
   {
-    "title": "写作这回事:创作生涯回忆录",
-    "assess": 8.6,
-    "assessNumber": 4089
+    "title": "我的晃荡的青春",
+    "assess": 6.9,
+    "assessNumber": 5809
   },
   {
     "title": "我的前半生",
     "assess": 7.6,
-    "assessNumber": 3888
+    "assessNumber": 5605
   },
   {
-    "title": "史玉柱自述:我的营销心得",
-    "assess": 8,
-    "assessNumber": 3394
+    "title": "写作这回事:创作生涯回忆录",
+    "assess": 8.6,
+    "assessNumber": 5481
   },
   {
-    "title": "陈寅恪的最后20年",
-    "assess": 8.7,
-    "assessNumber": 3372
+    "title": "灵魂有香气的女子:26个女神的故事",
+    "assess": 7.1,
+    "assessNumber": 5416
+  },
+  {
+    "title": "李鸿章传",
+    "assess": 8.9,
+    "assessNumber": 5325
   },
   {
     "title": "富兰克林自传",
     "assess": 8.4,
-    "assessNumber": 3268
+    "assessNumber": 5280
   },
   {
-    "title": "蒋介石与现代中国",
-    "assess": 8.6,
-    "assessNumber": 3255
+    "title": "知行合一王阳明（1472—1529）",
+    "assess": 7.6,
+    "assessNumber": 5275
   },
   {
-    "title": "旁观者:管理大师德鲁克回忆录",
-    "assess": 8.7,
-    "assessNumber": 3195
+    "title": "我要快乐，不必正常",
+    "assess": 8.5,
+    "assessNumber": 5192
   },
   {
-    "title": "曾国藩的正面与侧面",
+    "title": "毛泽东传:名著珍藏版",
     "assess": 8.3,
-    "assessNumber": 3116
+    "assessNumber": 5178
   },
   {
-    "title": "胡雪岩（全三册）:胡雪岩第一部",
-    "assess": 8.8,
-    "assessNumber": 3010
+    "title": "痛并快乐着",
+    "assess": 7.8,
+    "assessNumber": 5131
   },
   {
-    "title": "曾国藩家书",
-    "assess": 8.7,
-    "assessNumber": 2796
-  },
-  {
-    "title": "建筑家安藤忠雄",
-    "assess": 8.9,
-    "assessNumber": 2764
+    "title": "坏血:一个硅谷巨头的秘密与谎言",
+    "assess": 8.1,
+    "assessNumber": 5098
   },
   {
     "title": "鞋狗:耐克创始人菲尔·奈特亲笔自传",
     "assess": 8.4,
-    "assessNumber": 2675
+    "assessNumber": 5071
   },
   {
-    "title": "像一块滚石:鲍勃·迪伦回忆录（第一卷）",
-    "assess": 8.3,
-    "assessNumber": 2610
+    "title": "名人传",
+    "assess": 8,
+    "assessNumber": 4975
   },
   {
-    "title": "杜尚访谈录",
-    "assess": 8.8,
-    "assessNumber": 2491
+    "title": "过得刚好",
+    "assess": 6.7,
+    "assessNumber": 4872
   },
   {
-    "title": "张国荣的时光",
-    "assess": 9,
-    "assessNumber": 2457
-  },
-  {
-    "title": "蒋经国传",
-    "assess": 8.4,
-    "assessNumber": 2323
-  },
-  {
-    "title": "阿拉伯的劳伦斯:战争、谎言、帝国愚行与现代中东的形成",
-    "assess": 9.1,
-    "assessNumber": 2160
-  },
-  {
-    "title": "艽野尘梦",
-    "assess": 8.9,
-    "assessNumber": 2044
-  },
-  {
-    "title": "巴菲特传:一个美国资本家的成长",
-    "assess": 8.2,
-    "assessNumber": 2027
-  },
-  {
-    "title": "亲爱的提奥:凡高自传",
-    "assess": 9.1,
-    "assessNumber": 1877
+    "title": "只是孩子",
+    "assess": 8.7,
+    "assessNumber": 4823
   },
   {
     "title": "褚时健传",
-    "assess": 9,
-    "assessNumber": 1814
+    "assess": 8.9,
+    "assessNumber": 4558
+  },
+  {
+    "title": "曾国藩传",
+    "assess": 8.6,
+    "assessNumber": 4510
+  },
+  {
+    "title": "蒋介石与现代中国",
+    "assess": 8.6,
+    "assessNumber": 4456
   },
   {
     "title": "李光耀观天下",
     "assess": 9.2,
-    "assessNumber": 1761
+    "assessNumber": 4454
+  },
+  {
+    "title": "LeanIn:Women,Work,andtheWilltoLead",
+    "assess": 8.3,
+    "assessNumber": 4453
+  },
+  {
+    "title": "少年凯歌",
+    "assess": 9.2,
+    "assessNumber": 4399
+  },
+  {
+    "title": "曾国藩的正面与侧面",
+    "assess": 8.3,
+    "assessNumber": 4371
+  },
+  {
+    "title": "奥古斯都",
+    "assess": 9.2,
+    "assessNumber": 4197
+  },
+  {
+    "title": "成为:米歇尔·奥巴马自传",
+    "assess": 8.6,
+    "assessNumber": 4154
+  },
+  {
+    "title": "林徽因传",
+    "assess": 7.8,
+    "assessNumber": 4128
+  },
+  {
+    "title": "贾想II:贾樟柯电影手记2008—2016",
+    "assess": 8.4,
+    "assessNumber": 4112
+  },
+  {
+    "title": "史玉柱自述:我的营销心得",
+    "assess": 8,
+    "assessNumber": 4086
+  },
+  {
+    "title": "比我老的老头",
+    "assess": 8.3,
+    "assessNumber": 4027
+  },
+  {
+    "title": "独自上场",
+    "assess": 8.2,
+    "assessNumber": 4022
+  },
+  {
+    "title": "山本耀司：我投下一枚炸弹",
+    "assess": 7.6,
+    "assessNumber": 4010
+  },
+  {
+    "title": "杰克·韦尔奇自传",
+    "assess": 7.8,
+    "assessNumber": 3982
+  },
+  {
+    "title": "拍电影时我在想的事",
+    "assess": 8.9,
+    "assessNumber": 3874
+  },
+  {
+    "title": "陈寅恪的最后20年",
+    "assess": 8.7,
+    "assessNumber": 3774
+  },
+  {
+    "title": "上海的金枝玉叶",
+    "assess": 8.1,
+    "assessNumber": 3755
+  },
+  {
+    "title": "迷宫中的将军",
+    "assess": 8.7,
+    "assessNumber": 3747
+  },
+  {
+    "title": "Educated:AMemoir",
+    "assess": 8.9,
+    "assessNumber": 3677
+  },
+  {
+    "title": "黄河青山:黄仁宇回忆录",
+    "assess": 8.4,
+    "assessNumber": 3640
+  },
+  {
+    "title": "天生有罪:特雷弗·诺亚的变色人生",
+    "assess": 9.2,
+    "assessNumber": 3537
+  },
+  {
+    "title": "我的造梦之路",
+    "assess": 8.6,
+    "assessNumber": 3527
+  },
+  {
+    "title": "雕刻时光",
+    "assess": 9.5,
+    "assessNumber": 3497
+  },
+  {
+    "title": "旁观者:管理大师德鲁克回忆录",
+    "assess": 8.7,
+    "assessNumber": 3494
+  },
+  {
+    "title": "拿破仑传",
+    "assess": 8,
+    "assessNumber": 3481
+  },
+  {
+    "title": "胡雪岩（全三册）:胡雪岩第一部",
+    "assess": 8.8,
+    "assessNumber": 3413
+  },
+  {
+    "title": "阿拉伯的劳伦斯:战争、谎言、帝国愚行与现代中东的形成",
+    "assess": 9.1,
+    "assessNumber": 3337
+  },
+  {
+    "title": "曾国藩的正面与侧面:全新修订升级版",
+    "assess": 8.3,
+    "assessNumber": 3246
+  },
+  {
+    "title": "人生不设限:我那好得不像话的生命体验",
+    "assess": 8.3,
+    "assessNumber": 3208
+  },
+  {
+    "title": "命运：文在寅自传",
+    "assess": 8.3,
+    "assessNumber": 3206
+  },
+  {
+    "title": "BornaCrime:StoriesfromaSouthAfricanChildhood",
+    "assess": 9.4,
+    "assessNumber": 3173
+  },
+  {
+    "title": "建筑家安藤忠雄",
+    "assess": 8.9,
+    "assessNumber": 3158
+  },
+  {
+    "title": "史蒂夫·乔布斯传（修订版）",
+    "assess": 9.1,
+    "assessNumber": 3137
   },
   {
     "title": "梵高手稿:梵高书信、画作、珍贵手稿",
-    "assess": 9.4,
-    "assessNumber": 1747
+    "assess": 9.5,
+    "assessNumber": 3067
   },
   {
-    "title": "沈从文的后半生:1948-1988",
-    "assess": 9.1,
-    "assessNumber": 1590
-  },
-  {
-    "title": "荣格自传",
-    "assess": 8.5,
-    "assessNumber": 1554
-  },
-  {
-    "title": "你干吗在乎别人怎么想？:充满好奇心的费曼",
-    "assess": 8.6,
-    "assessNumber": 1535
-  },
-  {
-    "title": "说吧，记忆:自传追述",
-    "assess": 8.8,
-    "assessNumber": 1498
-  },
-  {
-    "title": "毛姆传:毛姆的秘密生活",
-    "assess": 8.3,
-    "assessNumber": 1462
-  },
-  {
-    "title": "从文自传",
-    "assess": 8.9,
-    "assessNumber": 1432
-  },
-  {
-    "title": "成为乔布斯",
-    "assess": 8.9,
-    "assessNumber": 1180
-  },
-  {
-    "title": "艾伦·图灵传:如谜的解谜者",
-    "assess": 8.4,
-    "assessNumber": 1159
-  },
-  {
-    "title": "柳如是别传（全三册）",
-    "assess": 9,
-    "assessNumber": 1158
-  },
-  {
-    "title": "断头王后:玛丽王后的最后岁月",
-    "assess": 8.3,
-    "assessNumber": 1109
-  },
-  {
-    "title": "冬日笔记",
-    "assess": 7.7,
-    "assessNumber": 970
-  },
-  {
-    "title": "為了活下去：脫北女孩朴研美",
+    "title": "风雨哈佛路:一个最贫穷也最勇敢的哈佛女孩",
     "assess": 8.2,
-    "assessNumber": 966
+    "assessNumber": 3043
   },
   {
-    "title": "天才的编辑:麦克斯·珀金斯与一个文学时代",
-    "assess": 9.1,
-    "assessNumber": 961
+    "title": "洛克菲勒留给儿子的38封信",
+    "assess": 8.6,
+    "assessNumber": 3038
+  },
+  {
+    "title": "主角",
+    "assess": 7.6,
+    "assessNumber": 3017
+  },
+  {
+    "title": "宫女谈往录:储秀宫里随侍慈禧八年",
+    "assess": 8.7,
+    "assessNumber": 2936
+  },
+  {
+    "title": "SteveJobs",
+    "assess": 8.9,
+    "assessNumber": 2929
+  },
+  {
+    "title": "杜尚访谈录",
+    "assess": 8.8,
+    "assessNumber": 2926
+  },
+  {
+    "title": "滚雪球（上）:巴菲特和他的财富人生",
+    "assess": 8,
+    "assessNumber": 2915
+  },
+  {
+    "title": "西行漫记:红星照耀中国",
+    "assess": 8.4,
+    "assessNumber": 2893
+  },
+  {
+    "title": "张国荣的时光",
+    "assess": 9,
+    "assessNumber": 2864
+  },
+  {
+    "title": "张居正:共四册，木兰歌、水龙吟、金缕曲、火凤凰",
+    "assess": 8.4,
+    "assessNumber": 2859
+  },
+  {
+    "title": "蒋经国传",
+    "assess": 8.4,
+    "assessNumber": 2828
+  },
+  {
+    "title": "费马大定理:一个困惑了世间智者358年的谜",
+    "assess": 9,
+    "assessNumber": 2821
+  },
+  {
+    "title": "蒋介石传",
+    "assess": 7,
+    "assessNumber": 2805
+  },
+  {
+    "title": "艽野尘梦",
+    "assess": 8.9,
+    "assessNumber": 2750
+  },
+  {
+    "title": "银元时代生活史",
+    "assess": 8.6,
+    "assessNumber": 2735
+  },
+  {
+    "title": "我的前半生(全本)",
+    "assess": 7.7,
+    "assessNumber": 2724
+  },
+  {
+    "title": "人类的群星闪耀时:十四篇历史特写（增订版）",
+    "assess": 8.6,
+    "assessNumber": 2647
+  },
+  {
+    "title": "合肥四姊妹",
+    "assess": 8.1,
+    "assessNumber": 2634
+  },
+  {
+    "title": "昨天的云:回忆录四部曲之一",
+    "assess": 8.8,
+    "assessNumber": 2592
+  },
+  {
+    "title": "三双鞋:美捷步总裁谢家华自述",
+    "assess": 8.3,
+    "assessNumber": 2578
+  },
+  {
+    "title": "股票作手回忆录",
+    "assess": 8.8,
+    "assessNumber": 2544
+  },
+  {
+    "title": "童年",
+    "assess": 8,
+    "assessNumber": 2503
   },
   {
     "title": "音乐即自由",
     "assess": 8.5,
-    "assessNumber": 917
+    "assessNumber": 2436
   },
   {
-    "title": "再度觉醒",
-    "assess": 8.9,
-    "assessNumber": 917
+    "title": "巴菲特传:一个美国资本家的成长",
+    "assess": 8.2,
+    "assessNumber": 2406
   },
   {
-    "title": "时光列车",
+    "title": "股票大作手回忆录",
+    "assess": 8.8,
+    "assessNumber": 2405
+  },
+  {
+    "title": "亲爱的提奥:凡高自传",
+    "assess": 9.1,
+    "assessNumber": 2389
+  },
+  {
+    "title": "见风",
     "assess": 8.3,
-    "assessNumber": 889
+    "assessNumber": 2359
   },
   {
-    "title": "我是你的男人:莱昂纳德·科恩传记",
+    "title": "沈从文的后半生:1948-1988",
+    "assess": 9.1,
+    "assessNumber": 2317
+  },
+  {
+    "title": "水流云在:英若诚自传",
+    "assess": 8.5,
+    "assessNumber": 2277
+  },
+  {
+    "title": "将心注入:星巴克创始人，全球董事长霍华德.舒尔茨自述",
+    "assess": 8.3,
+    "assessNumber": 2224
+  },
+  {
+    "title": "从文自传",
+    "assess": 9,
+    "assessNumber": 2120
+  },
+  {
+    "title": "毛姆传:毛姆的秘密生活",
+    "assess": 8.3,
+    "assessNumber": 2088
+  },
+  {
+    "title": "WhenBreathBecomesAir",
+    "assess": 9,
+    "assessNumber": 2057
+  },
+  {
+    "title": "南渡北归:增订版",
+    "assess": 8.4,
+    "assessNumber": 2018
+  },
+  {
+    "title": "宋徽宗",
+    "assess": 8,
+    "assessNumber": 2014
+  },
+  {
+    "title": "谁说大象不能跳舞？:IBM董事长郭士纳自传",
+    "assess": 7.8,
+    "assessNumber": 2001
+  },
+  {
+    "title": "颠覆者:周鸿祎自传",
+    "assess": 8.1,
+    "assessNumber": 1994
+  },
+  {
+    "title": "富甲美国:沃尔玛创始人山姆·沃尔顿自传",
+    "assess": 8.2,
+    "assessNumber": 1989
+  },
+  {
+    "title": "刷新:重新发现商业与未来",
+    "assess": 7.5,
+    "assessNumber": 1985
+  },
+  {
+    "title": "北野武自述:无聊的人生，我死也不要",
+    "assess": 7.3,
+    "assessNumber": 1984
+  },
+  {
+    "title": "九败一胜:美团创始人王兴创业十年",
+    "assess": 7.8,
+    "assessNumber": 1958
+  },
+  {
+    "title": "科比自传:曼巴精神",
+    "assess": 7.8,
+    "assessNumber": 1941
+  },
+  {
+    "title": "陈寅恪的最后20年:修订本",
+    "assess": 8.6,
+    "assessNumber": 1936
+  },
+  {
+    "title": "一网打尽:贝佐斯与亚马逊时代",
+    "assess": 7.4,
+    "assessNumber": 1892
+  },
+  {
+    "title": "荣格自传:回忆•梦•思考",
     "assess": 8.7,
-    "assessNumber": 858
+    "assessNumber": 1848
+  },
+  {
+    "title": "活着回来的男人:一个普通日本兵的二战及战后生命史",
+    "assess": 8.4,
+    "assessNumber": 1845
+  },
+  {
+    "title": "列奥纳多·达·芬奇传:从凡人到天才的创造力密码",
+    "assess": 8.8,
+    "assessNumber": 1845
+  },
+  {
+    "title": "说吧，记忆:自传追述",
+    "assess": 8.8,
+    "assessNumber": 1837
+  },
+  {
+    "title": "关山夺路:王鼎钧回忆录四部曲之三",
+    "assess": 9.2,
+    "assessNumber": 1815
+  },
+  {
+    "title": "自由的老虎",
+    "assess": 7.8,
+    "assessNumber": 1773
+  },
+  {
+    "title": "成为乔布斯",
+    "assess": 8.8,
+    "assessNumber": 1725
+  },
+  {
+    "title": "你干吗在乎别人怎么想？:充满好奇心的费曼",
+    "assess": 8.6,
+    "assessNumber": 1712
+  },
+  {
+    "title": "天才的编辑:麦克斯·珀金斯与一个文学时代",
+    "assess": 9.1,
+    "assessNumber": 1704
+  },
+  {
+    "title": "奇特的一生:柳比歇夫坚持56年的“时间统计法”",
+    "assess": 7.3,
+    "assessNumber": 1659
+  },
+  {
+    "title": "為了活下去:脫北女孩朴研美",
+    "assess": 8.1,
+    "assessNumber": 1658
   },
   {
     "title": "梵高传",
+    "assess": 9.1,
+    "assessNumber": 1656
+  },
+  {
+    "title": "生命的不可思议:胡因梦自传",
+    "assess": 8.5,
+    "assessNumber": 1599
+  },
+  {
+    "title": "魔灯:英格玛·伯格曼自传（全译本）",
+    "assess": 9.1,
+    "assessNumber": 1598
+  },
+  {
+    "title": "椰壳碗外的人生:本尼迪克特·安德森回忆录",
+    "assess": 8.9,
+    "assessNumber": 1578
+  },
+  {
+    "title": "Becoming",
+    "assess": 8.3,
+    "assessNumber": 1566
+  },
+  {
+    "title": "绝非偶然:社会心理学家阿伦森自传",
+    "assess": 8.8,
+    "assessNumber": 1546
+  },
+  {
+    "title": "艾伦·图灵传:如谜的解谜者",
+    "assess": 8.3,
+    "assessNumber": 1541
+  },
+  {
+    "title": "德川家康全集（套装全13册）",
+    "assess": 8.6,
+    "assessNumber": 1534
+  },
+  {
+    "title": "西潮",
+    "assess": 8.4,
+    "assessNumber": 1533
+  },
+  {
+    "title": "巴菲特之道:原书第3版",
+    "assess": 8.5,
+    "assessNumber": 1526
+  },
+  {
+    "title": "只有偏执狂才能生存",
+    "assess": 7.4,
+    "assessNumber": 1523
+  },
+  {
+    "title": "我的世界观",
+    "assess": 9,
+    "assessNumber": 1501
+  },
+  {
+    "title": "断头王后:玛丽王后的最后岁月",
+    "assess": 8.3,
+    "assessNumber": 1491
+  },
+  {
+    "title": "平均分",
+    "assess": 7.2,
+    "assessNumber": 1459
+  },
+  {
+    "title": "不如去闯",
+    "assess": 8.2,
+    "assessNumber": 1401
+  },
+  {
+    "title": "我坚信",
+    "assess": 7.3,
+    "assessNumber": 1395
+  },
+  {
+    "title": "深度思考:不断逼近问题的本质",
+    "assess": 6.1,
+    "assessNumber": 1394
+  },
+  {
+    "title": "四十自述",
+    "assess": 7.8,
+    "assessNumber": 1387
+  },
+  {
+    "title": "青年变革者:梁启超（1873—1898）",
+    "assess": 7.5,
+    "assessNumber": 1370
+  },
+  {
+    "title": "创造自然:亚历山大·冯·洪堡的科学发现之旅",
+    "assess": 8.9,
+    "assessNumber": 1369
+  },
+  {
+    "title": "奥兰多",
+    "assess": 8.6,
+    "assessNumber": 1366
+  },
+  {
+    "title": "佛陀传:全世界影响力最大的佛陀传记",
+    "assess": 9,
+    "assessNumber": 1343
+  },
+  {
+    "title": "柳如是别传（全三册）",
+    "assess": 9,
+    "assessNumber": 1309
+  },
+  {
+    "title": "阿加莎·克里斯蒂自传:阿加莎·克里斯蒂作品47",
+    "assess": 9,
+    "assessNumber": 1304
+  },
+  {
+    "title": "永不放弃:特朗普自述",
+    "assess": 6.4,
+    "assessNumber": 1302
+  },
+  {
+    "title": "苏世民：我的经验与教训",
+    "assess": 8.3,
+    "assessNumber": 1293
+  },
+  {
+    "title": "追寻记忆的痕迹:2007年旧版",
+    "assess": 8.9,
+    "assessNumber": 1290
+  },
+  {
+    "title": "安藤忠雄:建造属于自己的世界",
+    "assess": 8.8,
+    "assessNumber": 1277
+  },
+  {
+    "title": "阿加莎·克里斯蒂的真实人生",
+    "assess": 8.5,
+    "assessNumber": 1265
+  },
+  {
+    "title": "沈从文的前半生:1902-1948",
+    "assess": 8.8,
+    "assessNumber": 1263
+  },
+  {
+    "title": "这个世界会好吗？:梁漱溟晚年口述",
+    "assess": 8.1,
+    "assessNumber": 1261
+  },
+  {
+    "title": "音乐使人自由",
+    "assess": 8.2,
+    "assessNumber": 1255
+  },
+  {
+    "title": "ElonMusk:Tesla,SpaceX,andtheQuestforaFantasticFuture",
+    "assess": 8.5,
+    "assessNumber": 1254
+  },
+  {
+    "title": "别逗了，费曼先生",
+    "assess": 8.3,
+    "assessNumber": 1234
+  },
+  {
+    "title": "且以优雅过一生:杨绛传",
+    "assess": 7.2,
+    "assessNumber": 1228
+  },
+  {
+    "title": "约翰·克里斯朵夫",
     "assess": 9.2,
-    "assessNumber": 839
+    "assessNumber": 1228
   },
   {
     "title": "发现的乐趣:费曼演讲、访谈集",
     "assess": 8.4,
-    "assessNumber": 752
+    "assessNumber": 1216
+  },
+  {
+    "title": "我心归处是敦煌:樊锦诗自述",
+    "assess": 8.3,
+    "assessNumber": 1206
   },
   {
     "title": "我心深处",
     "assess": 8.2,
-    "assessNumber": 748
+    "assessNumber": 1201
+  },
+  {
+    "title": "创新公司:皮克斯的启示",
+    "assess": 8.7,
+    "assessNumber": 1195
+  },
+  {
+    "title": "心若菩提",
+    "assess": 9.1,
+    "assessNumber": 1182
+  },
+  {
+    "title": "居里夫人传",
+    "assess": 8.5,
+    "assessNumber": 1180
+  },
+  {
+    "title": "时间的噪音",
+    "assess": 8.1,
+    "assessNumber": 1163
   },
   {
     "title": "伊莎贝拉:武士女王",
-    "assess": 8.8,
-    "assessNumber": 727
+    "assess": 8.7,
+    "assessNumber": 1158
+  },
+  {
+    "title": "异见时刻:“声名狼藉”的金斯伯格大法官",
+    "assess": 8.4,
+    "assessNumber": 1123
+  },
+  {
+    "title": "我曾走在崩溃的边缘:俞敏洪亲述新东方创业发展之路",
+    "assess": 8.2,
+    "assessNumber": 1060
+  },
+  {
+    "title": "爱因斯坦传",
+    "assess": 8.7,
+    "assessNumber": 1057
+  },
+  {
+    "title": "平如美棠:我俩的故事（第三版）",
+    "assess": 9.3,
+    "assessNumber": 1041
   },
   {
     "title": "我坦言我曾历尽沧桑",
     "assess": 8.4,
-    "assessNumber": 718
+    "assessNumber": 1035
   },
   {
-    "title": "伍迪·艾伦谈话录",
-    "assess": 8.3,
-    "assessNumber": 607
+    "title": "无路可逃:1966—1976自我口述史",
+    "assess": 8.7,
+    "assessNumber": 1030
   },
   {
-    "title": "见证",
-    "assess": 9.2,
-    "assessNumber": 606
+    "title": "PermanentRecord",
+    "assess": 8.8,
+    "assessNumber": 1015
+  },
+  {
+    "title": "摩根财团:美国一代银行王朝和现代金融业的崛起（1838～1990）",
+    "assess": 8.5,
+    "assessNumber": 997
+  },
+  {
+    "title": "生命因你而火热",
+    "assess": 6.7,
+    "assessNumber": 984
   },
   {
     "title": "青年斯大林",
+    "assess": 8.1,
+    "assessNumber": 983
+  },
+  {
+    "title": "朴赞郁的蒙太奇",
+    "assess": 7.2,
+    "assessNumber": 983
+  },
+  {
+    "title": "整个巴黎属于我",
     "assess": 8.2,
-    "assessNumber": 581
+    "assessNumber": 977
   },
   {
-    "title": "行动的勇气:金融危机及其余波回忆录",
-    "assess": 8.8,
-    "assessNumber": 575
+    "title": "失焦",
+    "assess": 9,
+    "assessNumber": 967
   },
   {
-    "title": "阿加莎·克里斯蒂自传",
-    "assess": 8.2,
-    "assessNumber": 573
+    "title": "杜月笙传（上.中.下）",
+    "assess": 7.9,
+    "assessNumber": 946
   },
   {
-    "title": "草疯长",
-    "assess": 8.7,
-    "assessNumber": 553
-  },
-  {
-    "title": "爱因斯坦传",
+    "title": "我身在历史何处",
     "assess": 8.6,
-    "assessNumber": 550
+    "assessNumber": 917
   },
   {
-    "title": "凯恩斯传",
-    "assess": 8.9,
-    "assessNumber": 530
+    "title": "成吉思汗与今日世界之形成",
+    "assess": 8.3,
+    "assessNumber": 914
   },
   {
-    "title": "我的奋斗1:父亲的葬礼",
+    "title": "恺撒:巨人的一生",
     "assess": 8.5,
-    "assessNumber": 493
+    "assessNumber": 867
+  },
+  {
+    "title": "无法直面的人生:鲁迅传",
+    "assess": 8.8,
+    "assessNumber": 854
+  },
+  {
+    "title": "ShoeDog:AMemoirbytheCreatorofNike",
+    "assess": 9.1,
+    "assessNumber": 850
+  },
+  {
+    "title": "阿迅",
+    "assess": 8.1,
+    "assessNumber": 844
+  },
+  {
+    "title": "周恩来传:中华人民共和国成立70周年典藏纪念版",
+    "assess": 8.1,
+    "assessNumber": 840
   },
   {
     "title": "吴清源回忆录:以文会友",
-    "assess": 8.6,
-    "assessNumber": 475
+    "assess": 8.5,
+    "assessNumber": 829
   },
   {
-    "title": "希腊罗马名人传",
+    "title": "网：阿加西自传:阿加西自传",
     "assess": 9.2,
-    "assessNumber": 462
+    "assessNumber": 822
+  },
+  {
+    "title": "富兰克林传",
+    "assess": 8.2,
+    "assessNumber": 813
+  },
+  {
+    "title": "慈禧全传",
+    "assess": 9.4,
+    "assessNumber": 802
+  },
+  {
+    "title": "只是为了好玩:Linux之父林纳斯自传",
+    "assess": 8.2,
+    "assessNumber": 781
+  },
+  {
+    "title": "走出非洲",
+    "assess": 8.8,
+    "assessNumber": 764
+  },
+  {
+    "title": "曾国藩",
+    "assess": 8.6,
+    "assessNumber": 761
+  },
+  {
+    "title": "滚雪球:巴菲特和他的财富人生",
+    "assess": 7.6,
+    "assessNumber": 738
+  },
+  {
+    "title": "我的一生:梅厄夫人自传",
+    "assess": 8.7,
+    "assessNumber": 727
+  },
+  {
+    "title": "林徽因传:最新修订本",
+    "assess": 8.6,
+    "assessNumber": 709
+  },
+  {
+    "title": "玛丽娜·阿布拉莫维奇传",
+    "assess": 8.4,
+    "assessNumber": 704
+  },
+  {
+    "title": "黑暗时代的人们",
+    "assess": 8.8,
+    "assessNumber": 699
+  },
+  {
+    "title": "爱与资本:马克思家事",
+    "assess": 9.3,
+    "assessNumber": 697
+  },
+  {
+    "title": "贝多芬传",
+    "assess": 8.7,
+    "assessNumber": 676
+  },
+  {
+    "title": "断头王后：玛丽·安托瓦内特传",
+    "assess": 8.7,
+    "assessNumber": 672
+  },
+  {
+    "title": "不得贪胜",
+    "assess": 8.1,
+    "assessNumber": 671
+  },
+  {
+    "title": "T.S.艾略特传:不完美的一生",
+    "assess": 9,
+    "assessNumber": 663
+  },
+  {
+    "title": "林肯传",
+    "assess": 8.6,
+    "assessNumber": 655
+  },
+  {
+    "title": "武曌:中国唯一的女皇帝",
+    "assess": 7,
+    "assessNumber": 651
+  },
+  {
+    "title": "李光耀回忆录:我一生的挑战——新加坡双语之路",
+    "assess": 7.4,
+    "assessNumber": 622
+  },
+  {
+    "title": "蚕丝：钱学森传",
+    "assess": 8.2,
+    "assessNumber": 619
+  },
+  {
+    "title": "美与暴烈:三岛由纪夫传",
+    "assess": 9,
+    "assessNumber": 598
+  },
+  {
+    "title": "假如给我三天光明",
+    "assess": 8.2,
+    "assessNumber": 591
+  },
+  {
+    "title": "凯恩斯传",
+    "assess": 8.8,
+    "assessNumber": 586
+  },
+  {
+    "title": "一个女人的自传",
+    "assess": 8.5,
+    "assessNumber": 582
   },
   {
     "title": "漫漫自由路:曼德拉自传",
     "assess": 8.5,
-    "assessNumber": 442
-  },
-  {
-    "title": "恺撒：巨人的一生:TheLifeofAColossue",
-    "assess": 8.7,
-    "assessNumber": 418
-  },
-  {
-    "title": "在缅甸寻找乔治·奥威尔",
-    "assess": 8.7,
-    "assessNumber": 375
-  },
-  {
-    "title": "我生活的种种模式:赫尔伯特·A·西蒙自传",
-    "assess": 8.2,
-    "assessNumber": 310
-  },
-  {
-    "title": "渴望风流:寻找光荣的深处",
-    "assess": 8.5,
-    "assessNumber": 285
+    "assessNumber": 576
   },
   {
     "title": "创新者:一群技术狂人和鬼才程序员如何改变世界",
+    "assess": 8.5,
+    "assessNumber": 574
+  },
+  {
+    "title": "福柯的生死爱欲",
+    "assess": 9.2,
+    "assessNumber": 573
+  },
+  {
+    "title": "追寻记忆的痕迹:新心智科学的开创历程",
+    "assess": 9.2,
+    "assessNumber": 569
+  },
+  {
+    "title": "因为我有生活:电影美术师杨占家从艺录",
+    "assess": 8.7,
+    "assessNumber": 565
+  },
+  {
+    "title": "战胜一切市场的人:从拉斯维加斯到华尔街",
+    "assess": 8.4,
+    "assessNumber": 550
+  },
+  {
+    "title": "卡尔·马克思:生平与环境",
+    "assess": 8.9,
+    "assessNumber": 546
+  },
+  {
+    "title": "希腊罗马名人传",
+    "assess": 9.2,
+    "assessNumber": 544
+  },
+  {
+    "title": "杜甫传",
+    "assess": 7.8,
+    "assessNumber": 543
+  },
+  {
+    "title": "乐队女孩:金·戈登回忆录",
+    "assess": 8.3,
+    "assessNumber": 537
+  },
+  {
+    "title": "蒂姆·库克传:苹果公司的反思与商业的未来",
+    "assess": 6.7,
+    "assessNumber": 518
+  },
+  {
+    "title": "伽利略传",
+    "assess": 8.5,
+    "assessNumber": 508
+  },
+  {
+    "title": "拿破仑大帝",
+    "assess": 8.7,
+    "assessNumber": 508
+  },
+  {
+    "title": "奥古斯都:从革命者到皇帝",
+    "assess": 8.3,
+    "assessNumber": 502
+  },
+  {
+    "title": "任天堂哲学",
+    "assess": 7.5,
+    "assessNumber": 496
+  },
+  {
+    "title": "漆黑清晨",
+    "assess": 9.1,
+    "assessNumber": 490
+  },
+  {
+    "title": "明治天皇:1852-1912",
+    "assess": 8.3,
+    "assessNumber": 485
+  },
+  {
+    "title": "莎士比亚",
+    "assess": 8.5,
+    "assessNumber": 482
+  },
+  {
+    "title": "汉密尔顿传",
+    "assess": 9.3,
+    "assessNumber": 474
+  },
+  {
+    "title": "小脚与西服:张幼仪与徐志摩",
+    "assess": 8.7,
+    "assessNumber": 472
+  },
+  {
+    "title": "告别的仪式",
+    "assess": 8.3,
+    "assessNumber": 465
+  },
+  {
+    "title": "做生意的艺术:特朗普传",
+    "assess": 7.9,
+    "assessNumber": 453
+  },
+  {
+    "title": "梵高",
+    "assess": 9,
+    "assessNumber": 449
+  },
+  {
+    "title": "和博尔赫斯在一起",
+    "assess": 8.7,
+    "assessNumber": 445
+  },
+  {
+    "title": "见证:肖斯塔科维奇回忆录",
+    "assess": 9.3,
+    "assessNumber": 441
+  },
+  {
+    "title": "成为我自己:欧文·亚隆回忆录",
+    "assess": 8.9,
+    "assessNumber": 441
+  },
+  {
+    "title": "通往权力之路:叶卡捷琳娜大帝",
+    "assess": 8.7,
+    "assessNumber": 440
+  },
+  {
+    "title": "戴维斯王朝",
+    "assess": 8.2,
+    "assessNumber": 438
+  },
+  {
+    "title": "邓小平传",
+    "assess": 7.8,
+    "assessNumber": 434
+  },
+  {
+    "title": "冷峻的良心：奥威尔传:冷峻的良心",
+    "assess": 8,
+    "assessNumber": 428
+  },
+  {
+    "title": "我生活的种种模式:赫尔伯特·A·西蒙自传",
+    "assess": 8.4,
+    "assessNumber": 427
+  },
+  {
+    "title": "孔子大历史:初民、贵族与寡头们的早期华夏",
+    "assess": 8.4,
+    "assessNumber": 423
+  },
+  {
+    "title": "昨日世界:一个欧洲人的回忆",
+    "assess": 9.4,
+    "assessNumber": 419
+  },
+  {
+    "title": "马其顿的亚历山大",
     "assess": 8.6,
-    "assessNumber": 284
+    "assessNumber": 411
+  },
+  {
+    "title": "思虑20世纪:托尼·朱特思想自传",
+    "assess": 9,
+    "assessNumber": 409
+  },
+  {
+    "title": "一生的旅程:迪士尼CEO自述批量打造超级IP的经营哲学",
+    "assess": 8.6,
+    "assessNumber": 393
+  },
+  {
+    "title": "契诃夫的一生:内米洛夫斯基作品集",
+    "assess": 9.3,
+    "assessNumber": 388
+  },
+  {
+    "title": "苏轼十讲",
+    "assess": 9.2,
+    "assessNumber": 375
+  },
+  {
+    "title": "狂想人生:皇后乐队传",
+    "assess": 9,
+    "assessNumber": 371
+  },
+  {
+    "title": "阅读蒙田，是为了生活",
+    "assess": 8.4,
+    "assessNumber": 367
+  },
+  {
+    "title": "曼德施塔姆夫人回忆录",
+    "assess": 9.2,
+    "assessNumber": 356
   },
   {
     "title": "痛苦与狂喜:向石而生:米开朗基罗传1",
     "assess": 8.7,
-    "assessNumber": 271
+    "assessNumber": 354
   },
   {
-    "title": "三十年细说从头",
-    "assess": 8.8,
-    "assessNumber": 267
-  },
-  {
-    "title": "才女之累:李清照及其接受史",
-    "assess": 8.7,
-    "assessNumber": 235
-  },
-  {
-    "title": "这就是达利",
-    "assess": 8,
-    "assessNumber": 179
-  },
-  {
-    "title": "阿尔贝·加缪:一个生命的要素",
-    "assess": 8.8,
-    "assessNumber": 175
-  },
-  {
-    "title": "雷蒙·阿隆回忆录:五十年的政治反思",
-    "assess": 8.2,
-    "assessNumber": 146
-  },
-  {
-    "title": "杜甫:中国最伟大的诗人",
-    "assess": 8.9,
-    "assessNumber": 142
-  },
-  {
-    "title": "WKW:TheCinemaofWongKarWai",
-    "assess": 9.5,
-    "assessNumber": 115
-  },
-  {
-    "title": "一生的故事（全六册）",
+    "title": "先知三部曲（全新插图修订本）:武装的先知：托洛茨基1879—1921；被解除武装的先知：托洛茨基1921—19",
     "assess": 9.4,
-    "assessNumber": 102
+    "assessNumber": 351
+  },
+  {
+    "title": "我的一生略小于美国现代史:凯瑟琳·格雷厄姆自传",
+    "assess": 8.9,
+    "assessNumber": 346
+  },
+  {
+    "title": "维特根斯坦传（插图版）:天才之为责任",
+    "assess": 9.3,
+    "assessNumber": 342
+  },
+  {
+    "title": "爱尔兰人",
+    "assess": 7.4,
+    "assessNumber": 338
+  },
+  {
+    "title": "郭鹤年自传:简体本",
+    "assess": 9,
+    "assessNumber": 337
+  },
+  {
+    "title": "天空的另一半",
+    "assess": 9.1,
+    "assessNumber": 331
+  },
+  {
+    "title": "魔术师时代:哲学的黄金十年：1919-1929",
+    "assess": 8.7,
+    "assessNumber": 327
+  },
+  {
+    "title": "论巴赫",
+    "assess": 9.3,
+    "assessNumber": 315
+  },
+  {
+    "title": "李普曼传",
+    "assess": 8.5,
+    "assessNumber": 309
+  },
+  {
+    "title": "不合理的行为:增订版",
+    "assess": 9,
+    "assessNumber": 308
+  },
+  {
+    "title": "傅斯年:中国近代历史与政治中的个体生命",
+    "assess": 9.3,
+    "assessNumber": 299
+  },
+  {
+    "title": "天才主厨的绝对温度:HAJIME法餐厅米田肇的故事",
+    "assess": 7.9,
+    "assessNumber": 292
+  },
+  {
+    "title": "重于天堂:科特·柯本传",
+    "assess": 8.7,
+    "assessNumber": 291
+  },
+  {
+    "title": "稻盛和夫的人生哲学",
+    "assess": 9,
+    "assessNumber": 286
+  },
+  {
+    "title": "弗里达:传奇女画家的一生",
+    "assess": 8.3,
+    "assessNumber": 275
+  },
+  {
+    "title": "约翰克利斯朵夫",
+    "assess": 9.2,
+    "assessNumber": 274
+  },
+  {
+    "title": "工商巨子:洛克菲勒传",
+    "assess": 9.2,
+    "assessNumber": 273
+  },
+  {
+    "title": "三大师传",
+    "assess": 8.6,
+    "assessNumber": 262
+  },
+  {
+    "title": "毛泽东传（全6卷）",
+    "assess": 8.7,
+    "assessNumber": 259
+  },
+  {
+    "title": "艾伦•图灵传:如谜的解谜者",
+    "assess": 8.4,
+    "assessNumber": 256
+  },
+  {
+    "title": "荣格自传:回忆·梦·思考",
+    "assess": 9,
+    "assessNumber": 252
+  },
+  {
+    "title": "我的改变:个人的现代化40年",
+    "assess": 7.4,
+    "assessNumber": 244
+  },
+  {
+    "title": "俾斯麦:一个普鲁士人和他的世纪",
+    "assess": 8.6,
+    "assessNumber": 243
+  },
+  {
+    "title": "DearGirls:IntimateTales,UntoldSecrets&AdviceforLivingYourBestLife",
+    "assess": 7.3,
+    "assessNumber": 242
+  },
+  {
+    "title": "宋仁宗：共治时代",
+    "assess": 8,
+    "assessNumber": 239
+  },
+  {
+    "title": "无尽之河：平克·弗洛伊德传",
+    "assess": 9.1,
+    "assessNumber": 230
+  },
+  {
+    "title": "雷蒙·阿隆回忆录:增订本",
+    "assess": 8.7,
+    "assessNumber": 221
+  },
+  {
+    "title": "宋仁宗和他的帝国精英",
+    "assess": 7.7,
+    "assessNumber": 221
+  },
+  {
+    "title": "事实:一个小说家的自传",
+    "assess": 8.2,
+    "assessNumber": 220
+  },
+  {
+    "title": "羊之歌:我的回想",
+    "assess": 9,
+    "assessNumber": 215
+  },
+  {
+    "title": "权力之路:林登·约翰逊传1",
+    "assess": 9.1,
+    "assessNumber": 214
+  },
+  {
+    "title": "人类群星闪耀时:有2018年11月3印本",
+    "assess": 7.3,
+    "assessNumber": 207
+  },
+  {
+    "title": "TheRideofaLifetime:LessonsLearnedfrom15YearsasCEOoftheWaltDisneyCompany",
+    "assess": 8.7,
+    "assessNumber": 207
+  },
+  {
+    "title": "加缪传",
+    "assess": 8.2,
+    "assessNumber": 204
+  },
+  {
+    "title": "我的前半生:批校本",
+    "assess": 8.3,
+    "assessNumber": 199
+  },
+  {
+    "title": "爱因斯坦传（精装珍藏版）",
+    "assess": 9.1,
+    "assessNumber": 198
+  },
+  {
+    "title": "伯林传",
+    "assess": 9.1,
+    "assessNumber": 196
+  },
+  {
+    "title": "卡尔·拉格斐传:香奈儿前艺术总监“老佛爷”首部中文传记",
+    "assess": 7.6,
+    "assessNumber": 193
   },
   {
     "title": "爱这个世界:汉娜·阿伦特传",
+    "assess": 9.1,
+    "assessNumber": 192
+  },
+  {
+    "title": "隆美尔战时文件",
+    "assess": 9.5,
+    "assessNumber": 192
+  },
+  {
+    "title": "香农传:从0到1开创信息时代",
+    "assess": 8.1,
+    "assessNumber": 191
+  },
+  {
+    "title": "小津安二郎全日记",
+    "assess": 7.7,
+    "assessNumber": 190
+  },
+  {
+    "title": "撒切尔夫人:权力与魅力",
+    "assess": 8.9,
+    "assessNumber": 186
+  },
+  {
+    "title": "遇见莫扎特：从神童到大师的音乐人生",
+    "assess": 7.5,
+    "assessNumber": 183
+  },
+  {
+    "title": "苏珊·桑塔格：精神与魅力",
+    "assess": 8.7,
+    "assessNumber": 171
+  },
+  {
+    "title": "曾国藩大传",
+    "assess": 9.2,
+    "assessNumber": 164
+  },
+  {
+    "title": "陀思妥耶夫斯基:作家与他的时代",
+    "assess": 9.1,
+    "assessNumber": 163
+  },
+  {
+    "title": "洛克菲勒传:全球首富的创富秘诀",
+    "assess": 8.6,
+    "assessNumber": 157
+  },
+  {
+    "title": "WhatItTakes:LessonsinthePursuitofExcellence",
+    "assess": 8.9,
+    "assessNumber": 150
+  },
+  {
+    "title": "罪恶之城的骑士:雷蒙德·钱德勒传",
+    "assess": 8.6,
+    "assessNumber": 149
+  },
+  {
+    "title": "小丑的流浪:费里尼自传",
     "assess": 9,
+    "assessNumber": 147
+  },
+  {
+    "title": "科学迷宫里的顽童与大师:赫伯特·西蒙自传",
+    "assess": 8.3,
+    "assessNumber": 135
+  },
+  {
+    "title": "凯南日记:用一百年和美国告别",
+    "assess": 8.2,
+    "assessNumber": 135
+  },
+  {
+    "title": "“爱国的”独裁者:佛朗哥传",
+    "assess": 8.5,
+    "assessNumber": 135
+  },
+  {
+    "title": "活过，爱过，写过:李银河自传",
+    "assess": 8.9,
+    "assessNumber": 123
+  },
+  {
+    "title": "毛泽东:雄关漫道",
+    "assess": 8.6,
+    "assessNumber": 123
+  },
+  {
+    "title": "米塞斯大传",
+    "assess": 9.7,
+    "assessNumber": 117
+  },
+  {
+    "title": "“医学大神”文库本系列",
+    "assess": 9.5,
+    "assessNumber": 116
+  },
+  {
+    "title": "理查德·费曼传",
+    "assess": 9.1,
+    "assessNumber": 110
+  },
+  {
+    "title": "创新的先知:约瑟夫·熊彼得传",
+    "assess": 9.4,
+    "assessNumber": 106
+  },
+  {
+    "title": "基辛格:理想主义者",
+    "assess": 8.9,
+    "assessNumber": 100
+  },
+  {
+    "title": "梅特涅：帝国与世界",
+    "assess": 8.6,
+    "assessNumber": 99
+  },
+  {
+    "title": "普里莫·莱维传",
+    "assess": 9.5,
+    "assessNumber": 97
+  },
+  {
+    "title": "海海人生:横尾忠则自传",
+    "assess": 8.3,
     "assessNumber": 94
   },
   {
-    "title": "米歇尔·福柯传",
-    "assess": 8.2,
-    "assessNumber": 90
-  },
-  {
-    "title": "搅局者:Limonov",
+    "title": "苏轼传",
     "assess": 8.7,
-    "assessNumber": 50
+    "assessNumber": 91
   },
   {
-    "title": "万里黄沙万里情:塞尔吉奥•莱昂内传",
+    "title": "鯨吞億萬:一個大馬年輕人，行騙華爾街與好萊塢的真實故事",
+    "assess": 9,
+    "assessNumber": 89
+  },
+  {
+    "title": "攀岩人生:自我超越的力量",
+    "assess": 8.9,
+    "assessNumber": 88
+  },
+  {
+    "title": "希特勒传",
+    "assess": 9,
+    "assessNumber": 71
+  },
+  {
+    "title": "我在太空的一年:NASA宇航员亲历太空的340天",
+    "assess": 8.9,
+    "assessNumber": 69
+  },
+  {
+    "title": "于尔根·哈贝马斯传：知识分子与公共生活:知识分子与公共生活",
+    "assess": 8.6,
+    "assessNumber": 67
+  },
+  {
+    "title": "左宗棠全传",
+    "assess": 9.5,
+    "assessNumber": 65
+  },
+  {
+    "title": "为历史而生:马克·布洛赫传",
+    "assess": 9,
+    "assessNumber": 62
+  },
+  {
+    "title": "风雨琳琅:林徽因和她的时代",
     "assess": 9.2,
+    "assessNumber": 62
+  },
+  {
+    "title": "巴尔扎克传:普罗米修斯或巴尔扎克的一生",
+    "assess": 9.7,
+    "assessNumber": 62
+  },
+  {
+    "title": "AproposofNothing",
+    "assess": 8.5,
+    "assessNumber": 62
+  },
+  {
+    "title": "汉娜·阿伦特：活在黑暗时代",
+    "assess": 7.6,
+    "assessNumber": 60
+  },
+  {
+    "title": "维多利亚女王:帝国女统治者的秘密传记",
+    "assess": 8.8,
+    "assessNumber": 57
+  },
+  {
+    "title": "希特勒",
+    "assess": 9.5,
+    "assessNumber": 57
+  },
+  {
+    "title": "贝托尔特·布莱希特:昏暗时代的生活艺术",
+    "assess": 8,
+    "assessNumber": 53
+  },
+  {
+    "title": "动画人生:迪士尼传",
+    "assess": 8.1,
+    "assessNumber": 46
+  },
+  {
+    "title": "纳博科夫传:俄罗斯时期",
+    "assess": 9.4,
+    "assessNumber": 44
+  },
+  {
+    "title": "大卫·林奇：他来自异世界",
+    "assess": 8.4,
+    "assessNumber": 41
+  },
+  {
+    "title": "贝多芬传:磨难与辉煌",
+    "assess": 9.7,
+    "assessNumber": 41
+  },
+  {
+    "title": "纳博科夫传:美国时期",
+    "assess": 9.2,
+    "assessNumber": 38
+  },
+  {
+    "title": "强盗王后璞兰戴薇",
+    "assess": 8.1,
+    "assessNumber": 38
+  },
+  {
+    "title": "卡特制造:安吉拉·卡特传",
+    "assess": 9.3,
+    "assessNumber": 33
+  },
+  {
+    "title": "被搞丢的人生:废料箱里的148本日记",
+    "assess": 8.2,
+    "assessNumber": 22
+  },
+  {
+    "title": "恋爱中的海明威",
+    "assess": 7.5,
+    "assessNumber": 17
+  },
+  {
+    "title": "爱伦·坡：有一种发烧叫活着",
+    "assess": 6.8,
+    "assessNumber": 15
+  },
+  {
+    "title": "伽达默尔传：理解的善良意志",
+    "assess": 9.5,
+    "assessNumber": 15
+  },
+  {
+    "title": "阿尔弗雷德·希区柯克：他知道得太多了",
+    "assess": 7.6,
+    "assessNumber": 15
+  },
+  {
+    "title": "生命是赌注:马雅可夫斯基的革命与爱情",
+    "assess": 0,
     "assessNumber": 14
+  },
+  {
+    "title": "克尔凯郭尔传",
+    "assess": 8.6,
+    "assessNumber": 13
+  },
+  {
+    "title": "天堂城堡中的音乐:巴赫传",
+    "assess": 9.4,
+    "assessNumber": 13
+  },
+  {
+    "title": "伪装的艺术:回忆录小史",
+    "assess": 8.4,
+    "assessNumber": 13
+  },
+  {
+    "title": "写给青少年的希腊罗马名人传",
+    "assess": 0,
+    "assessNumber": 10
+  },
+  {
+    "title": "菲利普·迪克传",
+    "assess": 0,
+    "assessNumber": 10
+  },
+  {
+    "title": "侯麦传",
+    "assess": 0,
+    "assessNumber": 10
   }
 ]

@@ -2,7 +2,7 @@ const cheerio = require('cheerio');
 const phantom = require('phantom');
 const fs = require('fs-extra');
 
-const searchText = encodeURI('EFT');
+const searchText = encodeURI('回忆');
 //豆瓣是15
 const startStep = 15;
 
